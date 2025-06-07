@@ -6,4 +6,4 @@
 	- Haematuria
 	- Absence of other chronic manifestations of DM
 -
-- ## Hallmark for DM nephro
+- ## Hallmark for DM nephropathy is *Albuminuria*/
