@@ -3,5 +3,5 @@
 - Oliguria :
 	- AKI and CKD +ve:
 		- #[[Frothy urine]]
-		- #Hematuria : when secondary to AGN
+		- #Hematuria : indicative of AGN
 		-
