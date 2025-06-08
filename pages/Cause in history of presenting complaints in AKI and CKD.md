@@ -1,3 +1,3 @@
 - Rule out CGN : By confirming absence of #[[Symptoms of Chronic Glomerulonephritis]]
-- Known hypertensive patient : Confirm that patient is faithful to his medications and clinic follow up | **-ve mention**
+- Known hypertensive patient : Confirm that patient is faithful to his medications and clinic follow up | **-ve mention** only when not faithful
 -
