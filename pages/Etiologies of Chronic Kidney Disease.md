@@ -6,4 +6,7 @@
 		- Systemic Lupus Erythematosus (Lupus nephritis)
 		- Vasculitis
 - Obstructive uropathy :
-	- Cacinoma of bladder ()
+	- Cacinoma of bladder (Ca bladder): Can be caused by urinary schistosomiasis
+	- Urethral caliculi
+- Obstructive nephropathy secondary to obstructive uropathy
+- Femal
