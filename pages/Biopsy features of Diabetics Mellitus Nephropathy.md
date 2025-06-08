@@ -1,4 +1,6 @@
 - Mesangial hyperproliferation
 - GBM thickening
-- Nodular glomerulosclerosis
--
+- Nodular Glomerulosclerosis
+- Focal Sclerosis
+- Hypertensive Nephrosclerosis
+- Afferent arteriolar
