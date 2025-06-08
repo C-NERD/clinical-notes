@@ -6,4 +6,4 @@
 - Systemic symptoms; Due to excess mobilization of calcium from bones:
 	- Cardiovascular disease
 	- Hypertension
-	- Pruritus:
+	- Pruritus: Deposition of calcium phosphate product on soft tiss
