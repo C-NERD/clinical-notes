@@ -1,2 +1,4 @@
 - Mesangial hyperproliferation
+- GBM thickening
+- Nodular glomerulosclerosis
 -
