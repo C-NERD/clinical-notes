@@ -1,6 +1,4 @@
-## Signs of DM nephropathy
-	- Body swelling
-	- New onset hypertension
+- #[[Signs of Diabetics Nephropathy]]
 -
 - ## Indications for kidney biopsy in DM nephropathy
 	- Haematuria
