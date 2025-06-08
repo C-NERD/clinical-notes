@@ -4,4 +4,5 @@
 	- AKI and CKD +ve:
 		- #[[Frothy urine]]
 		- #Hematuria : indicative of AGN
-		-
+		- Bone pains due to #Chro
+		- #[[Symptoms of uremia]]
