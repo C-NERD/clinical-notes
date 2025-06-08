@@ -3,5 +3,5 @@
 - In response to this osteocytes and osteoblasts secrete fibroblast growth factor 23
 - FGF 23 simulates down regulation for serum phosphate by:
 	- Promoting increased phosphate excretion by the remaining healthy glomeruli
-	- Inhibiting vitamin D activation and promoting vitamin D metabolism
-- Since vitamin D is responsible for intestinal ab
+	- Inhibiting vitamin D activation and promoting vitamin D metabolism to cause vitamin D deficiency
+- Since vitamin D is responsible for intestinal absorption of phosphate and calcium, deficiency of vitamin D causes
