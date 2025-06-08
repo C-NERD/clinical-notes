@@ -1,1 +1,4 @@
 - #[[Course in History of presenting complaints in AKI and CKD]]
+- #[[Cause in history of presenting complaints in AKI and CKD]]
+- #[[Complications in history of presenting complaints in AKI and CKD]]
+-
