@@ -4,5 +4,5 @@
 	- AKI and CKD +ve:
 		- #[[Frothy urine]]
 		- #Hematuria : indicative of AGN
-		- Bone pains due to #Chro
+		- #[[Symptoms of Chronic Kidney Disease mineral bone disorder]]
 		- #[[Symptoms of uremia]]
