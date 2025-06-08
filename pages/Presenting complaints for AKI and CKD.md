@@ -1,2 +1,3 @@
 - Generalized body weakness
-- Facial swelling (Periorbital) : Cha
+- Facial swelling (Periorbital) : Characteristic swelling of kidney diseases
+- Decline in urine output
