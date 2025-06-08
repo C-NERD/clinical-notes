@@ -1,3 +1,4 @@
 - Care received at home
 - Care received in other medical institutes and time received in relation to onset of symptoms
-- Any relief of symptoms i
+- Any relief of symptoms due to care received in the above
+- Care received since refereed to current facility
