@@ -2,3 +2,4 @@
 - Care received in other medical institutes and time received in relation to onset of symptoms
 - Any relief of symptoms due to care received in the above
 - Care received since refereed to current facility
+- Any relief of symptoms since arrival in current facility
