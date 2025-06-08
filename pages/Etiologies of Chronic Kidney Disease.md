@@ -3,4 +3,5 @@
 - Chronic glomerulonephritis ;  Most common etiology in young people:
 	- Primary glomerulonephritis : Kidney is the primary target of immune system
 	- Secondary glomerulonephritis ; secondary to:
-		-
+		- Systemic Lupus Erythematosus (Lupus nephritis)
+		- Vasculitis
