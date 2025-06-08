@@ -3,4 +3,4 @@
 - Nodular Glomerulosclerosis
 - Focal Sclerosis
 - Hypertensive Nephrosclerosis
-- Afferent arteriolar
+- Afferent arteriolar hyalinosis  (Onion skin appearance)
