@@ -1,2 +1,3 @@
 - Care received at home
-- Cre
+- Care received in other medical institutes and time received in relation to onset of symptoms
+- Any relief of symptoms i
