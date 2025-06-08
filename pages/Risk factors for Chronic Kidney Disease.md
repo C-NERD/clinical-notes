@@ -3,4 +3,8 @@
 - Obstructive Nephropathy
 - Polycystic Kidney Disease
 - Malignancy
--
+- Drug abuse:
+	- Herbal concotion
+	- NSAIDs
+	- Rifampicin
+	- Omeprazole
