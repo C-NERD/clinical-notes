@@ -1,2 +1,2 @@
 - I have presented a $age yr old $name who works as a $occupation on the account of $(presenting complaints).
-- He/She has received $(care so far) and sy,
+- He/She has received $(care so far) and symptoms persists / symptoms have subsided
