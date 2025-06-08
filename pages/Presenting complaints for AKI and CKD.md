@@ -1,3 +1,7 @@
 - Generalized body weakness :
+	- Accumulation of uremic toxins
+	- Metabolic acidosis
+	- Edema
+	-
 - Facial swelling (Periorbital) : Characteristic swelling of kidney diseases
 - Decline in urine output (Oliguria) : Due to impairment of renal function
