@@ -4,4 +4,7 @@
 - SCD
 - Heart disease
 - Hypertension
--
+- PKD
+- CKD
+- CLD
+- Hemophilia
