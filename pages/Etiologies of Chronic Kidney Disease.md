@@ -10,7 +10,9 @@
 	- Urethral caliculi
 - Obstructive nephropathy secondary to obstructive uropathy
 - Sickle cell disease : sickle shaped cells blocking afferent renal arteries
-- Renal artery stenosis (may be secondary to renal artery sclero)
+- Renal artery stenosis (may be secondary to renal artery sclerosis)
+- Severe obesity
+- HIV associated nephropathy
 - Females:
 	- Ca cervix
 	- Female fibroids
