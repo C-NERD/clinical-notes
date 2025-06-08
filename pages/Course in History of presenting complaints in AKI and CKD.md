@@ -11,7 +11,7 @@
 	- Take hx of :
 		- yellowish discoloration of the eye
 		- #[[History of constipation]]
-		- diarrhea
-		- passage of loose bulky stool
+		- #[[History of diarrhoea]]
+		- #[[History of steatorrhea]]
 		- tenesmus
 		- hematochezia or melena
