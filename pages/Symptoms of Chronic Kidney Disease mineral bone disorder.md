@@ -1,5 +1,6 @@
-- Bone symptoms; Due to calcium resorping
+- Bone symptoms; Due to calcium resorption activity of PTH:
 	- Bone pain
 	- Fractures
 	- Marrow fibrosis
 	- Osteoporosis
+- Systemic symptoms; Due to mobilization of calcium from
