@@ -1,1 +1,3 @@
+- Rule out #[[Uremic encephalopathy]] by confirming absence of #[[Symptoms of uremic encephalopathy]]
+- Rule out #[[Uremic gastritis]] by confiming absence of #[[Symptoms of Uremic gastritis]]
 - Rule out
