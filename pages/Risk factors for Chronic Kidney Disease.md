@@ -1,1 +1,6 @@
-- Hyper
+- Hypertension
+- Diabetes Mellitus
+- Obstructive Nephropathy
+- Polycystic Kidney Disease
+- Malignancy
+-
