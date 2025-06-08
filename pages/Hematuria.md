@@ -1,2 +1,3 @@
-- Defination : Blood in urine
-- Man
+- Definition : Blood in urine
+- Manifestations :
+	- As coca cola colored urine
