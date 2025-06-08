@@ -1,2 +1,4 @@
 - Current medications and treatments ; onset and dosage regimen
-- S
+- Side-effects of current medication and adherence to treatment
+- Hx of drug or food allergies
+- Immun
