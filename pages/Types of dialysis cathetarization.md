@@ -1,2 +1,4 @@
 - Neck
-	- Internal jugular vein catheta
+	- Internal jugular vein cathetarization
+		- Simple neck line (Temporary cathetarization)
+		- Permanent cathetarization :
