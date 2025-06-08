@@ -1,2 +1,4 @@
 - #[[Diabetes Mellitus neuropathy]]
--
+- #[[Diabetics Mellitus nephropathy]]
+- #[[Diabetes Mellitus retinopathy]]
+- #[[Diabetic Mellitus ketoacidosis]]
