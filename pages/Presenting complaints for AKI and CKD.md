@@ -1,3 +1,3 @@
-- Generalized body weakness
+- Generalized body weakness :
 - Facial swelling (Periorbital) : Characteristic swelling of kidney diseases
-- Decline in urine output
+- Decline in urine output (Oliguria) : Due to impairment of renal function
