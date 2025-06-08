@@ -1,8 +1,9 @@
-- Neck
-	- Internal jugular vein cathetarization
-		- Simple neck line (Temporary cathetarization) : Used for AKI
-		- Permanent cathetarization : Used while waiting for maturation of A-V fistula
-	- Subclavian vein cathetarization
-- Femoral vein cathetarization : AKI
-- A-V fistula
-- Graft cathetarization
+- #card
+	- Neck
+		- Internal jugular vein cathetarization
+			- Simple neck line (Temporary cathetarization) : Used for AKI
+			- Permanent cathetarization : Used while waiting for maturation of A-V fistula
+		- Subclavian vein cathetarization
+	- Femoral vein cathetarization : AKI
+	- A-V fistula
+	- Graft cathetarization
