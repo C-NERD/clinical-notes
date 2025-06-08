@@ -8,3 +8,4 @@
 	- NSAIDs
 	- Rifampicin
 	- Omeprazole
+	- Lithium
