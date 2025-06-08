@@ -1,2 +1,2 @@
 - Haematuria
-- Abscence
+- Absence of other chronic manifestations of Diabetics mellitus
