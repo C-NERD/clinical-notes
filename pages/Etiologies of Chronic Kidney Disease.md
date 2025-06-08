@@ -5,3 +5,5 @@
 	- Secondary glomerulonephritis ; secondary to:
 		- Systemic Lupus Erythematosus (Lupus nephritis)
 		- Vasculitis
+- Obstructive uropathy :
+	- Cacinoma of bladder ()
