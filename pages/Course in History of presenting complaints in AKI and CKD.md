@@ -1,2 +1,2 @@
 - Generalized body weakness : Maybe associated with loss of appetite, bone pains and easy fatigability
--
+- Facial swelling : Noticed by others, Prominent early in the morning, Starts in the periorb
