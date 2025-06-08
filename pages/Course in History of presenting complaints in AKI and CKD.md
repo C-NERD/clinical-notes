@@ -15,4 +15,4 @@
 		- #[[History of steatorrhea]]
 		- #Tenesmus
 		- #Haematochezia or #Melena
-	-
+-
