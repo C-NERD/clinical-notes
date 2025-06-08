@@ -1,6 +1,6 @@
 - Mesangial hyperproliferation
 - GBM thickening
-- [Nodular Glomerulosclerosis]#
+- [[Nodular Glomerulosclerosis]]
 - Focal Sclerosis
 - Hypertensive Nephrosclerosis
 - Afferent arteriolar hyalinosis  (Onion skin appearance)
