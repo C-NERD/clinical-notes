@@ -1,3 +1,5 @@
 - ![General overview of chronic kidney disease-mineral and bone disorder.... |  Download Scientific Diagram](https://www.researchgate.net/publication/355885806/figure/fig1/AS:1086104128233511@1635958811299/General-overview-of-chronic-kidney-disease-mineral-and-bone-disorder-Kidney-failure.png)
 - There is increase in serum phosphate levels due to kidney failure
-- In response to this osteocytes secrete fibroblast growth factor 23
+- In response to this osteocytes and osteoblasts secrete fibroblast growth factor 23
+- FGF 23 simulates down regulation for serum phosphate by:
+	- Promoting
