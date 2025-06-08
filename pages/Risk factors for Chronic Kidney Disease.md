@@ -1,10 +1,11 @@
 - Hypertension
 - Diabetes Mellitus
+- Heart failure
 - Obstructive Nephropathy
 - Polycystic Kidney Disease
 - Malignancy
 - Family history of CKD
-- Histor
+- History of AKI
 - Drug abuse:
 	- Herbal concotion
 	- Rifampicin
