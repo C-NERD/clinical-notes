@@ -1,0 +1,7 @@
+- DM
+- Asthma
+- Epilepsy (Seizures)
+- SCD
+- Heart disease
+- Hypertension
+-
