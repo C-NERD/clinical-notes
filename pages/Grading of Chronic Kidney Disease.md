@@ -3,4 +3,5 @@
 - Stage 3:
 	- Stage 3a: GFR 45 - 59 ml/min/1.73m^2
 	- Stage 3b: GFR 30 - 44 ml/min/1.73m^2
-- Stage 4: GFR 15 - 29 ml/min/1.73m
+- Stage 4: GFR 15 - 29 ml/min/1.73m^2
+- Stage 5: GFR < 15 ml/min/1.73m^2
