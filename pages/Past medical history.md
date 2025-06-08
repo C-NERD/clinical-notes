@@ -1,4 +1,6 @@
 - Hx of similar illness in the past
 - Hx of hospital admission, name of facility, date of admission and reason for admission
 - Hx of #[[Common illness in medical history]]
--
+- Unit specific medical hx:
+	- Nephro :
+		- Hx of dialysis; how many times,
