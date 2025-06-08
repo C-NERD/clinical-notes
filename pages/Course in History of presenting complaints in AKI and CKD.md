@@ -9,9 +9,9 @@
 - Abdominal swelling :
 	- If pain is present take #[[History of pain]]
 	- Take hx of :
-		- yellowish discoloration of the eye
+		- #Jaundice
 		- #[[History of constipation]]
 		- #[[History of diarrhoea]]
 		- #[[History of steatorrhea]]
-		- tenesmus
-		- hematochezia or melena
+		- #Tenesmus
+		- #Haematochezia or #Melena
