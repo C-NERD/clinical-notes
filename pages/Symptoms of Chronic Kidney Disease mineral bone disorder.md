@@ -1,1 +1,5 @@
-- Bone
+- Bone symptoms; Due to calcium resorping
+	- Bone pain
+	- Fractures
+	- Marrow fibrosis
+	- Osteoporosis
