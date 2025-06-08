@@ -1,5 +1,4 @@
 ## Signs of DM nephropathy
-collapsed:: true
 	- Body swelling
 	- New onset hypertension
 -
