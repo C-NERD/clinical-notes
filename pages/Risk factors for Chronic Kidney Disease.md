@@ -5,7 +5,7 @@
 - Malignancy
 - Drug abuse:
 	- Herbal concotion
-	- NSAIDs
 	- Rifampicin
-	- Omeprazole
 	- Lithium
+	- #[[Non Steroidal Anti Inflammatory Drugs (NSAIDs)]]
+	- #[[Proton pump inhibitors]]
