@@ -1,5 +1,6 @@
-- Also called? Kimmelstiel-Wilson syndrome
-- Other etiologies of Nodular sclerosis are: #card
+- Also called ? #card
+	- Kimmelstiel-Wilson syndrome
+- Other etiologies of Nodular sclerosis are ? #card
 	- Amyloidosis
 	- Light chain deposition
 	- Idiopathic
