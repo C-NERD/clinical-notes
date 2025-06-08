@@ -1,3 +1,4 @@
 - Position of patient n family (for young pt)
 - Family setting (Monogamous or Polygamous)
--
+- History of similar illness in the family
+- History of #[[Common illness in medical history]]
