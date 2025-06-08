@@ -1,3 +1,5 @@
-- Stage 1: GFR > 90 ml/min/1.72m^2
-- Stage 2: GFR 60 - 89 ml/min/1.
--
+- Stage 1: GFR > 90 ml/min/1.73m^2
+- Stage 2: GFR 60 - 89 ml/min/1.73m^2
+- Stage 3:
+	- Stage 3a: GFR 45 - 59 ml/min/1.73m^2
+	-
