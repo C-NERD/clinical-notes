@@ -1,3 +1,5 @@
 - Diabetics mellitus : Most common etiology in the world
 - Hypertension : Most common etiology in Nigeria
-- Chronic glomerulonephritis
+- Chronic glomerulonephritis ;  Most common etiology in young people:
+	- Primary glomerulonephritis : Direct cause of CKD
+	- Secondary glomerulonephritis
