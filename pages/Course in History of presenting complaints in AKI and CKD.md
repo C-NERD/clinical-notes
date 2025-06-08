@@ -1,1 +1,2 @@
-- Genra
+- Generalized body weakness : Maybe associated with loss of appetite, bone pains and easy fatigability
+-
