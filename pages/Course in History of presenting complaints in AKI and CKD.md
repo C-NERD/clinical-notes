@@ -1,3 +1,5 @@
 - Generalized body weakness : Maybe associated with loss of appetite, bone pains and easy fatigability
 - Facial swelling : Noticed by others, Prominent early in the morning, Starts in the periorbital region and progresses to the whole face, regresses as the day goes by | No hx
--
+- Oliguria :
+	- AKI and CKD +ve:
+		-
