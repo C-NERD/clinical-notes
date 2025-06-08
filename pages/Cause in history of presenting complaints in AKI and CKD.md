@@ -8,5 +8,5 @@
 	- Rule out TB by confirming absence of #[[Symptoms of Tuberculosis]]; Confirm if TB occurred first, if no rule out TB in complications
 	- Rule out CLD by confirming absence of hx of #[[Risk factors for Chronic Liver Disease]]
 	- Rule out other causes of renal disease like :
-		- Prolonged use of NSAIDs, mecury co
+		- Prolonged use of NSAIDs, mercury containing soaps or cream
 		- Hx of preceding snake bite, scorpion or bee stings
