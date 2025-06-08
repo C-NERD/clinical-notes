@@ -3,4 +3,4 @@
 - If patient does not admit to being hypertensive, rule out HTN nephropathy by confirming absence of #[[Symptoms of hypertension]]
 - Rule out DM nephropathy by confirming absence of #[[Symptoms of diabetes]]
 - Rule out Obstructive uropathy by confirming absence of #[[Symptoms of obstructive uropathy]]
-- Rule out schistosomiasis by confirming
+- Rule out schistosomiasis by confirming  if patient has hx of swimming in riverine bodies or childhood terminal hematuria
