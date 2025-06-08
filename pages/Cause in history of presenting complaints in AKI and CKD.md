@@ -1,7 +1,8 @@
-- Rule out CGN by confirming absence of #[[Symptoms of Chronic Glomerulonephritis]]
-- Rule out DM nephropathy by confirming absence of #[[Symptoms of diabetes]]
-- Rule out Obstructive uropathy by confirming absence of #[[Symptoms of obstructive uropathy]]
-- Rule out schistosomiasis by confirming  if patient has hx of swimming in riverine bodies or childhood terminal hematuria
-- Rule out TB by confirming absence of #[[Symptoms of Tuberculosis]]
 - Known hypertensive patient : Confirm that patient is faithful to his medications and clinic follow up | **-ve mention** only when not faithful
 - If patient does not admit to being hypertensive, rule out HTN nephropathy by confirming absence of #[[Symptoms of hypertension]]
+- Rule outs:
+	- Rule out CGN by confirming absence of #[[Symptoms of Chronic Glomerulonephritis]]
+	- Rule out DM nephropathy by confirming absence of #[[Symptoms of diabetes]]
+	- Rule out Obstructive uropathy by confirming absence of #[[Symptoms of obstructive uropathy]]
+	- Rule out schistosomiasis by confirming  if patient has hx of swimming in riverine bodies or childhood terminal hematuria
+	- Rule out TB by confirming absence of #[[Symptoms of Tuberculosis]]
