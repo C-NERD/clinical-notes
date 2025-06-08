@@ -9,4 +9,10 @@
 	- Cacinoma of bladder (Ca bladder): Can be caused by urinary schistosomiasis
 	- Urethral caliculi
 - Obstructive nephropathy secondary to obstructive uropathy
-- Femal
+- Females:
+	- Ca cervix
+	- Female fibroids
+- Males:
+	- BPH
+	- Ca prostate
+	- Posterior urethral valve (Congenital)
