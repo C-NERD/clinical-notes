@@ -10,7 +10,7 @@
 	- If pain is present take #[[History of pain]]
 	- Take hx of :
 		- yellowish discoloration of the eye
-		- constipation
+		- #[[History of constipation]]
 		- diarrhea
 		- passage of loose bulky stool
 		- tenesmus
