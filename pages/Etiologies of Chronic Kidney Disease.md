@@ -1,1 +1,3 @@
-- D
+- Diabetics mellitus : Most common etiology in the world
+- Hypertension : Most common etiology in Nigeria
+- Chronic glomerulonephritis
