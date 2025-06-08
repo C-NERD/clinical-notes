@@ -1,0 +1,2 @@
+- Also called Kimmelstiel-Wilson syndrome
+- Other etiologies
