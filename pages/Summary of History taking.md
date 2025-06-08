@@ -1,1 +1,2 @@
-- I have presented a $age yr old $name who works as a $occupation on the
+- I have presented a $age yr old $name who works as a $occupation on the account of $(presenting complaints).
+- He/She has received $(care so far) and sy,
