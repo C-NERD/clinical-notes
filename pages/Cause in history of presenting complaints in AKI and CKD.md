@@ -1,4 +1,4 @@
-- Rule out CGN : By confirming absence of #[[Symptoms of Chronic Glomerulonephritis]]
+- Rule out CGN by confirming absence of #[[Symptoms of Chronic Glomerulonephritis]]
 - Known hypertensive patient : Confirm that patient is faithful to his medications and clinic follow up | **-ve mention** only when not faithful
 - If patient does not admit to being hypertensive, rule out HTN nephropathy by confirming absence of #[[Symptoms of hypertension]]
--
+- Rule out DM nephropathy by confirming absence of #[[Symptoms of Di]]
