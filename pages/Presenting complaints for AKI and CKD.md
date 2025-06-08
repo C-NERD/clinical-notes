@@ -2,6 +2,7 @@
 	- Accumulation of uremic toxins
 	- Metabolic acidosis
 	- Edema
-	-
+	- Underlying illness
 - Facial swelling (Periorbital) : Characteristic swelling of kidney diseases
+- Leg swelling (If observed )
 - Decline in urine output (Oliguria) : Due to impairment of renal function
