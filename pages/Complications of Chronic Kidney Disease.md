@@ -1,3 +1,4 @@
-- CKD mineral bone disorder:
-	- #[[Progression of Chronic Kidney Disease mineral bone disorder]]
-	- #[[Symptoms of Chronic Kidney Disease mineral bone disorder]]
+- #card
+	- CKD mineral bone disorder:
+		- #[[Progression of Chronic Kidney Disease mineral bone disorder]]
+		- #[[Symptoms of Chronic Kidney Disease mineral bone disorder]]
