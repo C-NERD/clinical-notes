@@ -13,4 +13,5 @@
 		- constipation
 		- diarrhea
 		- passage of loose bulky stool
-		- tenesmus, hematochezia or melena
+		- tenesmus
+		- hematochezia or melena
