@@ -3,4 +3,4 @@
 - Hx of #[[Common illness in medical history]]
 - Unit specific medical hx:
 	- Nephro :
-		- Hx of dialysis; how many times,
+		- Hx of dialysis; how many times, vascular site for #[[Types of dialysis cathetarization]]
