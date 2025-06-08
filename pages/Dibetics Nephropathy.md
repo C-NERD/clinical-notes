@@ -1,2 +1,3 @@
 - #[[Signs of Diabetics Mellitus Nephropathy]]
 - #[[Indications for kidney biopsy in Diabetics Mellitus Nephropathy]]
+- #[[Biopsy features of Diabetics Mellitus Nephropathy]]
