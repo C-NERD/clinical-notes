@@ -1,2 +1,2 @@
-- #[[Diabetes neuropathy]]
-- #
+- #[[Diabetes Mellitus neuropathy]]
+-

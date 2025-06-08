@@ -1,4 +1,4 @@
 - Rule out #[[Uremic encephalopathy]] by confirming absence of #[[Symptoms of uremic encephalopathy]]
 - Rule out #[[Uremic gastritis]] by confiming absence of #[[Symptoms of Uremic gastritis]]
 - Rule out #[[Uremic neuropathy]] by confirming absence of #[[Symptoms of uremic neuropathy]]
-- Differentiate between #[[Uremic neuropathy]] and #[[Diabetes neuropathy]] by confirming absence of #[[Complications of Diabetes Mellitus]]
+- Differentiate between #[[Uremic neuropathy]] and #[[Diabetes Mellitus neuropathy]] by confirming absence of #[[Complications of Diabetes Mellitus]]
