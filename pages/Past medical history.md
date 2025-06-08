@@ -1,2 +1,4 @@
 - Hx of similar illness in the past
-- Hx of hospital admission
+- Hx of hospital admission, name of facility, date of admission and reason for admission
+- Hx of :
+-
