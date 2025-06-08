@@ -3,6 +3,8 @@
 - Obstructive Nephropathy
 - Polycystic Kidney Disease
 - Malignancy
+- Family history of CKD
+- Histor
 - Drug abuse:
 	- Herbal concotion
 	- Rifampicin
