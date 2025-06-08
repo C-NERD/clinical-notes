@@ -1,0 +1,2 @@
+- Hx of similar illness in the past
+- Hx of hospital admission
