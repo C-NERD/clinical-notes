@@ -7,4 +7,4 @@
 	- #[[Symptoms of uremia]]
 - Bilateral leg swelling : Initially around the ankle joint, progresses to include the entire leg and maybe the abdomen
 - Abdominal swelling :
-	- If pain is present, cler
+	- If pain is present #[[History of pain]]
