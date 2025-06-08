@@ -1,6 +1,7 @@
 - Generalized body weakness :
 	- Accumulation of uremic toxins
 	- Metabolic acidosis
+	- Electrolyte imbalance :
 	- Edema
 	- Underlying illness
 - Facial swelling (Periorbital) : Characteristic swelling of kidney diseases
