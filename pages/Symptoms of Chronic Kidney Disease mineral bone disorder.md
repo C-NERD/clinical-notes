@@ -3,4 +3,7 @@
 	- Fractures
 	- Marrow fibrosis
 	- Osteoporosis
-- Systemic symptoms; Due to mobilization of calcium from
+- Systemic symptoms; Due to excess mobilization of calcium from bones:
+	- Cardiovascular disease
+	- Hypertension
+	- Pruritus:
