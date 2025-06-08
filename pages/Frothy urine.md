@@ -1,1 +1,1 @@
-- Urine with noticeable, persistent, foamy or
+- Urine with noticeable, persistent, foamy or bubbly appearance
