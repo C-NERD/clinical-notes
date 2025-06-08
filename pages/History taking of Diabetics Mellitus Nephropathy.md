@@ -1,1 +1,1 @@
-- To determine etiology of CKD when there is hypertension and DM of similar onset, check for
+- To determine etiology of CKD when there is hypertension and DM of similar onset, check for [Other chronic manifestations of DM] #card
