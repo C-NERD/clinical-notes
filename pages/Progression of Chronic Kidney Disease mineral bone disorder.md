@@ -5,4 +5,4 @@
 	- Promoting increased phosphate excretion by the remaining healthy glomeruli
 	- Inhibiting vitamin D activation and promoting vitamin D metabolism to cause vitamin D deficiency
 - Since vitamin D is responsible for intestinal absorption of phosphate and calcium, deficiency of vitamin D causes calcium deficiency
-- Due to hyperphophatemia
+- Due to hyperphophatemia and hypocalcemia, hyperplasia of the parathyroid occurs resulting in hyperparathyroidism
