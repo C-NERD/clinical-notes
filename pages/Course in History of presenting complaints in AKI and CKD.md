@@ -6,7 +6,7 @@
 	- #[[Symptoms of Chronic Kidney Disease mineral bone disorder]]
 	- #[[Symptoms of uremia]]
 - Bilateral leg swelling : Initially around the ankle joint, progresses to include the entire leg and maybe the abdomen
-- Abdominal swelling :
+- #[[History of abdominal swelling]] :
 	- If pain is present take #[[History of pain]]
 	- Take hx of :
 		- #Jaundice
@@ -16,4 +16,4 @@
 		- #Tenesmus
 		- #Haematochezia or #Melena
 - #[[History of dyspnea]] :
-	- Rule out
+	- Rule out #[[Symptoms of heart failure]]
