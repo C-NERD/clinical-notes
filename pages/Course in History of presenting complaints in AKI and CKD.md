@@ -5,4 +5,4 @@
 	- #Hematuria : indicative of AGN
 	- #[[Symptoms of Chronic Kidney Disease mineral bone disorder]]
 	- #[[Symptoms of uremia]]
-- Bilateral leg swelling
+- Bilateral leg swelling : Initially around the ankle joint, progresses to include the entire leg
