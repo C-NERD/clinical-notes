@@ -7,4 +7,10 @@
 	- #[[Symptoms of uremia]]
 - Bilateral leg swelling : Initially around the ankle joint, progresses to include the entire leg and maybe the abdomen
 - Abdominal swelling :
-	- If pain is present #[[History of pain]]
+	- If pain is present take #[[History of pain]]
+	- Take hx of :
+		- yellowish discoloration of the eye
+		- constipation
+		- diarrhea
+		- passage of loose bulky stool
+		- tenesmus, hematochezia or melena
