@@ -1,5 +1,6 @@
 - Diabetics mellitus : Most common etiology in the world
 - Hypertension : Most common etiology in Nigeria
 - Chronic glomerulonephritis ;  Most common etiology in young people:
-	- Primary glomerulonephritis : Direct cause of CKD
-	- Secondary glomerulonephritis
+	- Primary glomerulonephritis : Kidney is the primary target of immune system
+	- Secondary glomerulonephritis ; secondary to:
+		-
