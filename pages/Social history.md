@@ -1,2 +1,8 @@
 - Number of children
+- Education level
+- Hx of use of recreational substances:
+	- Cigarette smoking
+	- Alcohol drinking
+	- Cocaine
+	- Etc.
 -
