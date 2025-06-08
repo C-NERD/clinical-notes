@@ -6,4 +6,6 @@
 	- Cocaine
 	- Etc.
 - Travel hx ; frequency, purpose, duration
-- Sexual hx ; Exposed
+- Sexual hx ; Exposed, Extra Marital, Multiple sexual partners, Unprotected sex
+- Hobbies
+- Pets
