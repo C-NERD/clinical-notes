@@ -8,3 +8,5 @@
 - Leg swelling (If observed make sure to rule out Heart failure)
 - Decline in urine output (Oliguria) : Due to impairment of renal function
 - Dyspnoea :
+	- Pulmonary edema
+	- Metabolic acidosis
