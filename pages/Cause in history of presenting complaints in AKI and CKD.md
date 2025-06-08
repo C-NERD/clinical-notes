@@ -7,3 +7,4 @@
 	- Rule out schistosomiasis by confirming  if patient has hx of swimming in riverine bodies or childhood terminal hematuria
 	- Rule out TB by confirming absence of #[[Symptoms of Tuberculosis]]; Confirm if TB occurred first, if no rule out TB in complications
 	- Rule out CLD by confirming absence of hx of #[[Risk factors for Chronic Liver Disease]]
+	- Rule out other causes of renal disease like prolonged
