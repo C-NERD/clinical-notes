@@ -9,6 +9,8 @@
 	- Cacinoma of bladder (Ca bladder): Can be caused by urinary schistosomiasis
 	- Urethral caliculi
 - Obstructive nephropathy secondary to obstructive uropathy
+- Sickle cell disease : sickle shaped cells blocking afferent renal arteries
+- Renal artery : artherosclerosis
 - Females:
 	- Ca cervix
 	- Female fibroids
