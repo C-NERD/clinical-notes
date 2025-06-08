@@ -15,4 +15,5 @@
 		- #[[History of steatorrhea]]
 		- #Tenesmus
 		- #Haematochezia or #Melena
--
+- #[[History of dyspnea]] :
+	- Rule out
