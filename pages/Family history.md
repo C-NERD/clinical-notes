@@ -1,0 +1,3 @@
+- Position of patient n family (for young pt)
+- Family setting (Monogamous or Polygamous)
+-
