@@ -1,3 +1,8 @@
 - #[[History of pain]]
 - Character of chest pain
-	- Sharp with breathing indicates pleuritic chest pain
+	- Sharp with breathing indicates pleuritic chest pain and it is suggestive of
+		- #card
+			- #Pneumonia
+			- #Pleuritis
+			- #[[Pulmonary embolism]]
+			-
