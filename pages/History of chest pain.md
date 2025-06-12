@@ -23,4 +23,5 @@
 		- #card
 			- Myocardial ischemia or #Angina
 - Radiation of chest pain
-	- Chest pain radiating to the back
+	- Chest pain radiating to the back, shoulders or arms is indicative of
+		- #[[Myocardial infarction]]
