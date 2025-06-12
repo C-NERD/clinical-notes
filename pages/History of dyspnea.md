@@ -16,4 +16,8 @@
 			- #[[Heart failure]]
 			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
 			- #[[Pulmonary hypertension]]
+	- **Resting dyspnea** suggests
+		- #card
+			- Advanced #[[Heart failure]]
+			- Severe #Asthma
 			-
