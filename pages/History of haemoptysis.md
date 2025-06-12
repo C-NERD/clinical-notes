@@ -4,3 +4,9 @@
 			- Chronic #Bronchitis
 			- #Bronchiectasis
 			- #Asthma
+	- Large volumes of blood is indicative of
+		- #card
+			- #Tuberculosis
+			- #[[Pulmonary embolism]]
+			- Lung cancer
+- Ask for associated symp
