@@ -7,7 +7,7 @@
 			- Lung abscess
 	- **Indications of dry cough**
 		- #card
-			- Asthma
+			- #Asthma
 			- Upper airway irritation
 			- Early stages of #[[Interstitial lung disease]]
 - Ask for duration of cough
@@ -17,3 +17,7 @@
 			- #Pneumonia
 			- #Tuberculosis
 	- **Subacute (3 - 8 weeks)**
+	- **Chronic cough (> 8 weeks)**
+		- #card
+			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
+			- #Asthma
