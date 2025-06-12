@@ -10,4 +10,4 @@
 			- Gastroesophageal reflux
 			- Cardiac causes
 				- #Angina
-				- #Myocardial infarc
+				- #Myocardial infarction
