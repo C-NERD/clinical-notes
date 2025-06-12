@@ -20,4 +20,4 @@
 				- Lung cancer
 	- Fever is indicative of
 		- #card
-			- Infection such as #T, #Bronchitis
+			- Infection such as #Pneumonia, #Bronchitis, #Tuberculosis
