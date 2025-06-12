@@ -21,4 +21,4 @@
 				- #Pneumonia
 	- Diffuse chest pain is suggestive of
 		- #card
-			-
+			- Myocardial isch
