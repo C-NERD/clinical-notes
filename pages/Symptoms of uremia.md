@@ -1,2 +1,3 @@
 - Uremic pruritus
--
+- Peripheral edema
+- Bone pain (due to )
