@@ -25,4 +25,6 @@
 	- Is there #Orthopnea which is suggestive of
 		- #card
 			- Left sided #[[Heart failure]]
-	- Is there
+	- Is there #[[Paroxymal nocturnal dyspnea (PND]] which is suggestive of
+		- #card
+			- #[[Heart failure]]
