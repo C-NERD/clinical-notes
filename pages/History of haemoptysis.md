@@ -18,4 +18,6 @@
 			- #card
 				- #Tuberculosis
 				- Lung cancer
-	-
+	- Fever is indicative of
+		- #card
+			- Infection such as #T, #Bronchitis
