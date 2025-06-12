@@ -16,4 +16,9 @@
 		- #card
 			- Musculoskeletal issue
 				- Rib fracture
-				-
+				- Costochondritis
+			- Pleural disease
+				- #Pneumonia
+	- Diffuse chest pain is suggestive of
+		- #card
+			-
