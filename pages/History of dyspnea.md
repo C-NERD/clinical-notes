@@ -21,4 +21,5 @@
 			- Advanced #[[Heart failure]]
 			- Severe #Asthma
 			- #[[Pulmonary edema]]
-- Ask for exacerbating or
+- Ask for exacerbating or relieving factors
+	- Is there
