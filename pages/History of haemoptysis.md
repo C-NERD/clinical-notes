@@ -11,4 +11,11 @@
 			- Lung cancer
 - Ask for associated symptoms
 	- Night sweats and weight loss
-		- To rule out night
+		- To rule out night sweats due to weather
+			- #card
+				- Ask if patient sleeps with fan on
+		- Indicative of
+			- #card
+				- #Tuberculosis
+				- Lung cancer
+	-
