@@ -1,8 +1,12 @@
 - Ask if cough is productive
-	- *Indications of productive cough
+	- **Indications of productive cough**
 		- #card
 			- #Bronchitis
 			- #Pneumonia
 			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
 			- Lung abscess
-	-
+	- **Indications of dry cough**
+		- #card
+			- Asthma
+			- Upper airway irritation
+			- Early stages of
