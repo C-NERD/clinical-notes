@@ -26,18 +26,19 @@
 :collapsedHeight 0
 :nonce 1749716581020}}
 :block/updated-at 1749716627508} 
-{:block/created-at 1749716720114
+{:block/created-at 1749717116684
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
+:rotation 0
 :borderRadius 2
 :index 1
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
 :type "box"
-:size [216 168]
+:size [224 168]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -48,9 +49,9 @@
 :point [480 512]
 :fontSize 20
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749716656693
+:nonce 1749716656711
 :italic false}}
-:block/updated-at 1749716720114} 
+:block/updated-at 1749717116684} 
 {:block/created-at 1749716724874
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -111,7 +112,7 @@
 :nonce 1749716752772
 :italic false}}
 :block/updated-at 1749716816047} 
-{:block/created-at 1749716829184
+{:block/created-at 1749717116683
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -128,37 +129,38 @@
 :id "0525eae2-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill true
-:point [584.04 681]
+:point [585.82 681]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 0]
+:point [0.75 0]
 :bindingId "07990dc1-4767-11f0-8ca3-976a5cc2958e"}
 :end 
 {:id "end"
 :canBind true
-:point [0.49 83]
+:point [0 83]
 :bindingId "0525eae1-4767-11f0-8ca3-976a5cc2958e"}}
 :decorations 
 {:end "arrow"}
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749716824264
+:nonce 1749716824265
 :italic false}}
-:block/updated-at 1749716829184} 
-{:block/created-at 1749716954498
+:block/updated-at 1749717116683} 
+{:block/created-at 1749717100876
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
+:rotation 0
 :borderRadius 2
 :index 5
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
 :type "box"
-:size [264 192]
+:size [296 192]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -166,24 +168,25 @@
 :id "25673610-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
-:point [760 1056]
+:point [888 624]
 :fontSize 20
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749716878538
+:nonce 1749716878890
 :italic false}}
-:block/updated-at 1749716954498} 
-{:block/created-at 1749717000104
+:block/updated-at 1749717100876} 
+{:block/created-at 1749717105965
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
+:rotation 0
 :borderRadius 2
 :index 6
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
 :type "box"
-:size [288 200]
+:size [296 200]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -191,13 +194,13 @@
 :id "571f7b90-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
-:point [224 1056]
+:point [888 888]
 :fontSize 20
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749716961907
+:nonce 1749716962133
 :italic false}}
-:block/updated-at 1749717000104} 
-{:block/created-at 1749717011389
+:block/updated-at 1749717105965} 
+{:block/created-at 1749717105964
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -214,26 +217,26 @@
 :id "71e85321-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill true
-:point [374.65 929]
+:point [705 891.31]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [183.42 0]
+:point [0 0]
 :bindingId "73ecfcc1-4767-11f0-8ca3-976a5cc2958e"}
 :end 
 {:id "end"
 :canBind true
-:point [0 123]
+:point [179 32.83]
 :bindingId "71e85320-4767-11f0-8ca3-976a5cc2958e"}}
 :decorations 
 {:end "arrow"}
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717006762
+:nonce 1749717006813
 :italic false}}
-:block/updated-at 1749717011389} 
-{:block/created-at 1749717021385
+:block/updated-at 1749717105964} 
+{:block/created-at 1749717100878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -250,25 +253,86 @@
 :id "77827f92-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill true
-:point [625.66 929]
+:point [705 755]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 71.5]
+:bindingId "79f135a1-4767-11f0-8ca3-976a5cc2958e"}
+:end 
+{:id "end"
+:canBind true
+:point [179 0]
+:bindingId "77827f91-4767-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749717016247
+:italic false}}
+:block/updated-at 1749717100878} 
+{:block/created-at 1749717100878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a42a6210-4767-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [1185 720]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
 :point [0 0]
-:bindingId "79f135a1-4767-11f0-8ca3-976a5cc2958e"}
+:bindingId "a42a6211-4767-11f0-8ca3-976a5cc2958e"}
 :end 
 {:id "end"
 :canBind true
-:point [228.04 123]
-:bindingId "77827f91-4767-11f0-8ca3-976a5cc2958e"}}
+:point [63 0]
+:bindingId "a42a6212-4767-11f0-8ca3-976a5cc2958e"}}
 :decorations 
 {:end "arrow"}
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717016180
+:nonce 1749717090998
 :italic false}}
-:block/updated-at 1749717021385})
+:block/updated-at 1749717100878} 
+{:block/created-at 1749717091032
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 9
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [264 192]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "a42a13f0-4767-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill false
+:point [1252 624]
+:fontSize 20
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749717090991
+:italic false}}
+:block/updated-at 1749717091032})
 :pages (
 {:block/uuid #uuid "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :block/properties 
@@ -277,45 +341,13 @@
 {:id "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :name "progression of ckd mineral bone disorder"
 :bindings 
-{:c8a5c9f1-4766-11f0-8ca3-976a5cc2958e 
-{:id "c8a5c9f1-4766-11f0-8ca3-976a5cc2958e"
+{:a42a6211-4767-11f0-8ca3-976a5cc2958e 
+{:id "a42a6211-4767-11f0-8ca3-976a5cc2958e"
 :type "line"
-:fromId "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e"
-:toId "a1372f30-4766-11f0-8ca3-976a5cc2958e"
-:handleId "end"
-:point [0.51 0.52]
-:distance 4}
-:0525eae1-4767-11f0-8ca3-976a5cc2958e 
-{:id "0525eae1-4767-11f0-8ca3-976a5cc2958e"
-:type "line"
-:fromId "0525eae2-4767-11f0-8ca3-976a5cc2958e"
-:toId "da719b00-4766-11f0-8ca3-976a5cc2958e"
-:handleId "end"
-:point [0.47 0.51]
-:distance 4}
-:07990dc1-4767-11f0-8ca3-976a5cc2958e 
-{:id "07990dc1-4767-11f0-8ca3-976a5cc2958e"
-:type "line"
-:fromId "0525eae2-4767-11f0-8ca3-976a5cc2958e"
-:toId "a1372f30-4766-11f0-8ca3-976a5cc2958e"
+:fromId "a42a6210-4767-11f0-8ca3-976a5cc2958e"
+:toId "25673610-4767-11f0-8ca3-976a5cc2958e"
 :handleId "start"
-:point [0.48 0.49]
-:distance 4}
-:71e85320-4767-11f0-8ca3-976a5cc2958e 
-{:id "71e85320-4767-11f0-8ca3-976a5cc2958e"
-:type "line"
-:fromId "71e85321-4767-11f0-8ca3-976a5cc2958e"
-:toId "571f7b90-4767-11f0-8ca3-976a5cc2958e"
-:handleId "end"
-:point [0.25 0.26]
-:distance 4}
-:73ecfcc1-4767-11f0-8ca3-976a5cc2958e 
-{:id "73ecfcc1-4767-11f0-8ca3-976a5cc2958e"
-:type "line"
-:fromId "71e85321-4767-11f0-8ca3-976a5cc2958e"
-:toId "da719b00-4766-11f0-8ca3-976a5cc2958e"
-:handleId "start"
-:point [0.68 0.68]
+:point [0.5 0.5]
 :distance 4}
 :77827f91-4767-11f0-8ca3-976a5cc2958e 
 {:id "77827f91-4767-11f0-8ca3-976a5cc2958e"
@@ -325,6 +357,22 @@
 :handleId "end"
 :point [0.7 0.25]
 :distance 4}
+:0525eae1-4767-11f0-8ca3-976a5cc2958e 
+{:id "0525eae1-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "0525eae2-4767-11f0-8ca3-976a5cc2958e"
+:toId "da719b00-4766-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.47 0.51]
+:distance 4}
+:73ecfcc1-4767-11f0-8ca3-976a5cc2958e 
+{:id "73ecfcc1-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "71e85321-4767-11f0-8ca3-976a5cc2958e"
+:toId "da719b00-4766-11f0-8ca3-976a5cc2958e"
+:handleId "start"
+:point [0.68 0.68]
+:distance 4}
 :79f135a1-4767-11f0-8ca3-976a5cc2958e 
 {:id "79f135a1-4767-11f0-8ca3-976a5cc2958e"
 :type "line"
@@ -332,11 +380,43 @@
 :toId "da719b00-4766-11f0-8ca3-976a5cc2958e"
 :handleId "start"
 :point [0.32 0.74]
+:distance 4}
+:a42a6212-4767-11f0-8ca3-976a5cc2958e 
+{:id "a42a6212-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "a42a6210-4767-11f0-8ca3-976a5cc2958e"
+:toId "a42a13f0-4767-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:07990dc1-4767-11f0-8ca3-976a5cc2958e 
+{:id "07990dc1-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "0525eae2-4767-11f0-8ca3-976a5cc2958e"
+:toId "a1372f30-4766-11f0-8ca3-976a5cc2958e"
+:handleId "start"
+:point [0.48 0.49]
+:distance 4}
+:c8a5c9f1-4766-11f0-8ca3-976a5cc2958e 
+{:id "c8a5c9f1-4766-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e"
+:toId "a1372f30-4766-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.51 0.52]
+:distance 4}
+:71e85320-4767-11f0-8ca3-976a5cc2958e 
+{:id "71e85320-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "71e85321-4767-11f0-8ca3-976a5cc2958e"
+:toId "571f7b90-4767-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.25 0.26]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e" "571f7b90-4767-11f0-8ca3-976a5cc2958e" "71e85321-4767-11f0-8ca3-976a5cc2958e" "77827f92-4767-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749717021394
+:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e" "571f7b90-4767-11f0-8ca3-976a5cc2958e" "71e85321-4767-11f0-8ca3-976a5cc2958e" "77827f92-4767-11f0-8ca3-976a5cc2958e" "a42a13f0-4767-11f0-8ca3-976a5cc2958e" "a42a6210-4767-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749717116683
 :block/created-at 1749716471279
 :block/type "whiteboard"
 :block/name "progression of ckd mineral bone disorder"
