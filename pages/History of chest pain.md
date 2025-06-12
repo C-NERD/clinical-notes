@@ -5,4 +5,6 @@
 			- #Pneumonia
 			- #Pleuritis
 			- #[[Pulmonary embolism]]
+	- Dull or constant indicates non-pleuritic chest pain and it is suggestive of
+		- #card
 			-
