@@ -10,4 +10,10 @@
 			- Gastroesophageal reflux
 			- Cardiac causes
 				- #Angina
-				- #Myocardial infarction
+				- #[[Myocardial infarction]]
+- Location of chest pain
+	- Localized chest pain is indicative of
+		- #card
+			- Musculoskeletal issue
+				- Rib fracture
+				-
