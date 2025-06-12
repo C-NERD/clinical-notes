@@ -200,7 +200,7 @@
 :nonce 1749716962133
 :italic false}}
 :block/updated-at 1749717105965} 
-{:block/created-at 1749717105964
+{:block/created-at 1749717131721
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -217,7 +217,7 @@
 :id "71e85321-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill true
-:point [705 891.31]
+:point [705 908.49]
 :fontSize 20
 :handles 
 {:start 
@@ -228,15 +228,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [179 32.83]
-:bindingId "71e85320-4767-11f0-8ca3-976a5cc2958e"}}
+:point [179 76]
+:bindingId "b9eff601-4767-11f0-8ca3-976a5cc2958e"}}
 :decorations 
 {:end "arrow"}
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717006813
+:nonce 1749717006981
 :italic false}}
-:block/updated-at 1749717105964} 
-{:block/created-at 1749717100878
+:block/updated-at 1749717131721} 
+{:block/created-at 1749717135095
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -253,26 +253,26 @@
 :id "77827f92-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill true
-:point [705 755]
+:point [705 716.51]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 71.5]
+:point [0 92.14]
 :bindingId "79f135a1-4767-11f0-8ca3-976a5cc2958e"}
 :end 
 {:id "end"
 :canBind true
 :point [179 0]
-:bindingId "77827f91-4767-11f0-8ca3-976a5cc2958e"}}
+:bindingId "bda18c51-4767-11f0-8ca3-976a5cc2958e"}}
 :decorations 
 {:end "arrow"}
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717016247
+:nonce 1749717016291
 :italic false}}
-:block/updated-at 1749717100878} 
-{:block/created-at 1749717100878
+:block/updated-at 1749717135095} 
+{:block/created-at 1749717151282
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -288,7 +288,7 @@
 :id "a42a6210-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill true
-:point [1185 720]
+:point [1185 768.85]
 :fontSize 20
 :handles 
 {:start 
@@ -299,15 +299,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [63 0]
+:point [203 66.56]
 :bindingId "a42a6212-4767-11f0-8ca3-976a5cc2958e"}}
 :decorations 
 {:end "arrow"}
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717090998
+:nonce 1749717091028
 :italic false}}
-:block/updated-at 1749717100878} 
-{:block/created-at 1749717091032
+:block/updated-at 1749717151282} 
+{:block/created-at 1749717151283
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -327,12 +327,46 @@
 :id "a42a13f0-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
-:point [1252 624]
+:point [1392 784]
 :fontSize 20
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717090991
+:nonce 1749717091169
 :italic false}}
-:block/updated-at 1749717091032})
+:block/updated-at 1749717151283} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "cde780b2-4767-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [1184 913.76]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 70.24]}
+:end 
+{:id "end"
+:canBind true
+:point [204 0]
+:bindingId "cde780b1-4767-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749717161078
+:italic false}}
+:block/updated-at 1749717162318})
 :pages (
 {:block/uuid #uuid "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :block/properties 
@@ -348,6 +382,14 @@
 :toId "25673610-4767-11f0-8ca3-976a5cc2958e"
 :handleId "start"
 :point [0.5 0.5]
+:distance 4}
+:bda18c51-4767-11f0-8ca3-976a5cc2958e 
+{:id "bda18c51-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "77827f92-4767-11f0-8ca3-976a5cc2958e"
+:toId "25673610-4767-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.31 0.24]
 :distance 4}
 :77827f91-4767-11f0-8ca3-976a5cc2958e 
 {:id "77827f91-4767-11f0-8ca3-976a5cc2958e"
@@ -381,6 +423,14 @@
 :handleId "start"
 :point [0.32 0.74]
 :distance 4}
+:cde780b1-4767-11f0-8ca3-976a5cc2958e 
+{:id "cde780b1-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "cde780b2-4767-11f0-8ca3-976a5cc2958e"
+:toId "a42a13f0-4767-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.51 0.43]
+:distance 4}
 :a42a6212-4767-11f0-8ca3-976a5cc2958e 
 {:id "a42a6212-4767-11f0-8ca3-976a5cc2958e"
 :type "line"
@@ -412,11 +462,19 @@
 :toId "571f7b90-4767-11f0-8ca3-976a5cc2958e"
 :handleId "end"
 :point [0.25 0.26]
+:distance 4}
+:b9eff601-4767-11f0-8ca3-976a5cc2958e 
+{:id "b9eff601-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "71e85321-4767-11f0-8ca3-976a5cc2958e"
+:toId "571f7b90-4767-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.43 0.75]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e" "571f7b90-4767-11f0-8ca3-976a5cc2958e" "71e85321-4767-11f0-8ca3-976a5cc2958e" "77827f92-4767-11f0-8ca3-976a5cc2958e" "a42a13f0-4767-11f0-8ca3-976a5cc2958e" "a42a6210-4767-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749717116683
+:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e" "571f7b90-4767-11f0-8ca3-976a5cc2958e" "71e85321-4767-11f0-8ca3-976a5cc2958e" "77827f92-4767-11f0-8ca3-976a5cc2958e" "a42a13f0-4767-11f0-8ca3-976a5cc2958e" "a42a6210-4767-11f0-8ca3-976a5cc2958e" "cde780b2-4767-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749717162318
 :block/created-at 1749716471279
 :block/type "whiteboard"
 :block/name "progression of ckd mineral bone disorder"
