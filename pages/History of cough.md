@@ -11,4 +11,9 @@
 			- Upper airway irritation
 			- Early stages of #[[Interstitial lung disease]]
 - Ask for duration of cough
-	- **Acute cough (< 3 weeks)** sugges
+	- **Acute cough (< 3 weeks)** suggests infection such as
+		- #card
+			- Common cold
+			- #Pneumonia
+			- #Tuberculosis
+	- **Subacute (3 - 8 weeks)**
