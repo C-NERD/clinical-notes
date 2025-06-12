@@ -19,6 +19,8 @@
 				- Costochondritis
 			- Pleural disease
 				- #Pneumonia
-	- Diffuse chest pain is suggestive of
+	- Diffuse chest pain or heavy pressure sensation is suggestive of
 		- #card
-			- Myocardial isch
+			- Myocardial ischemia or #Angina
+- Radiation of chest pain
+	- Chest pain radiating to the back
