@@ -9,4 +9,4 @@
 		- #card
 			- Asthma
 			- Upper airway irritation
-			- Early stages of
+			- Early stages of #[[Interstitial lung disease]]
