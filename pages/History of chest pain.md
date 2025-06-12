@@ -7,4 +7,7 @@
 			- #[[Pulmonary embolism]]
 	- Dull or constant indicates non-pleuritic chest pain and it is suggestive of
 		- #card
-			-
+			- Gastroesophageal reflux
+			- Cardiac causes
+				- #Angina
+				- #Myocardial infarc
