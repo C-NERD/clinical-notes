@@ -430,7 +430,7 @@
 :nonce 1749717280437
 :italic false}}
 :block/updated-at 1749717472465} 
-{:block/created-at 1749717594184
+{:block/created-at 1749717628251
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -455,9 +455,9 @@
 :point [1880 648]
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :collapsedHeight 0
-:nonce 1749717556658}}
-:block/updated-at 1749717594184} 
-{:block/created-at 1749717594182
+:nonce 1749717556924}}
+:block/updated-at 1749717628251} 
+{:block/created-at 1749717628253
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -489,9 +489,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717581269
+:nonce 1749717581351
 :italic false}}
-:block/updated-at 1749717594182})
+:block/updated-at 1749717628253})
 :pages (
 {:block/uuid #uuid "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :block/properties 
@@ -623,7 +623,7 @@
 :nonce 1
 :assets []
 :shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e" "571f7b90-4767-11f0-8ca3-976a5cc2958e" "71e85321-4767-11f0-8ca3-976a5cc2958e" "77827f92-4767-11f0-8ca3-976a5cc2958e" "a42a13f0-4767-11f0-8ca3-976a5cc2958e" "cde780b2-4767-11f0-8ca3-976a5cc2958e" "04226820-4768-11f0-8ca3-976a5cc2958e" "0422b640-4768-11f0-8ca3-976a5cc2958e" "14fe33e2-4768-11f0-8ca3-976a5cc2958e" "b9af9c30-4768-11f0-8ca3-976a5cc2958e" "c859bae2-4768-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749717594182
+:block/updated-at 1749717628291
 :block/created-at 1749716471279
 :block/type "whiteboard"
 :block/name "progression of ckd mineral bone disorder"
