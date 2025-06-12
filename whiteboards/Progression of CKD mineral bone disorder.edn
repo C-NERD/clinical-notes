@@ -147,7 +147,8 @@
 :nonce 1749716824264
 :italic false}}
 :block/updated-at 1749716829184} 
-{:block/properties 
+{:block/created-at 1749716954498
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -161,16 +162,76 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label ""
+:label "FGF 23 stimulates remaining\nhealthy nephrons\nto increase excretion of \nphosphate"
 :id "25673610-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
 :point [760 1056]
 :fontSize 20
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749716878422
+:nonce 1749716878538
 :italic false}}
-:block/updated-at 1749716882437})
+:block/updated-at 1749716954498} 
+{:block/created-at 1749717000104
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [288 200]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "FGF23 inhibits vitD activation\nand promotes vitD\nmetabolism"
+:id "571f7b90-4767-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill false
+:point [224 1056]
+:fontSize 20
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749716961907
+:italic false}}
+:block/updated-at 1749717000104} 
+{:block/created-at 1749717008168
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "71e85321-4767-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [374.75 944]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [161.25 0]}
+:end 
+{:id "end"
+:canBind true
+:point [0 108]
+:bindingId "71e85320-4767-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749717006728
+:italic false}}
+:block/updated-at 1749717008168})
 :pages (
 {:block/uuid #uuid "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :block/properties 
@@ -202,11 +263,19 @@
 :toId "a1372f30-4766-11f0-8ca3-976a5cc2958e"
 :handleId "start"
 :point [0.48 0.49]
+:distance 4}
+:71e85320-4767-11f0-8ca3-976a5cc2958e 
+{:id "71e85320-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "71e85321-4767-11f0-8ca3-976a5cc2958e"
+:toId "571f7b90-4767-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.25 0.26]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749716882437
+:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e" "571f7b90-4767-11f0-8ca3-976a5cc2958e" "71e85321-4767-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749717008167
 :block/created-at 1749716471279
 :block/type "whiteboard"
 :block/name "progression of ckd mineral bone disorder"
