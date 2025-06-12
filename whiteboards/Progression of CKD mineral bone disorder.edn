@@ -333,7 +333,7 @@
 :nonce 1749717161103
 :italic false}}
 :block/updated-at 1749717212884} 
-{:block/created-at 1749717265857
+{:block/created-at 1749717407550
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -349,26 +349,26 @@
 :id "0422b640-4768-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill true
-:point [1185 672]
+:point [1185 670.28]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 20.91]
+:point [0 23.26]
 :bindingId "0422b641-4768-11f0-8ca3-976a5cc2958e"}
 :end 
 {:id "end"
 :canBind true
-:point [115 0]
+:point [131 0]
 :bindingId "0422b642-4768-11f0-8ca3-976a5cc2958e"}}
 :decorations 
 {:end "arrow"}
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717252042
+:nonce 1749717252088
 :italic false}}
-:block/updated-at 1749717265857} 
-{:block/created-at 1749717265858
+:block/updated-at 1749717407550} 
+{:block/created-at 1749717407550
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -381,21 +381,21 @@
 :scaleLevel "md"
 :fill ""
 :type "box"
-:size [432 288]
+:size [288 200]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label ""
+:label "Calcium deficiency and hyperphosphatemia\ncauses parathyroid hyperplasia resulting in\nhyperparathyroidism"
 :id "04226820-4768-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
-:point [1304 488]
+:point [1320 544]
 :fontSize 20
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717252218
+:nonce 1749717252668
 :italic false}}
-:block/updated-at 1749717265858} 
-{:block/created-at 1749717285018
+:block/updated-at 1749717407550} 
+{:block/created-at 1749717407549
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -412,24 +412,24 @@
 :id "14fe33e2-4768-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill true
-:point [1432 780]
+:point [1432 748]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 116]}
+:point [0 148]}
 :end 
 {:id "end"
 :canBind true
-:point [68.83 0]
+:point [46.23 0]
 :bindingId "178c58d1-4768-11f0-8ca3-976a5cc2958e"}}
 :decorations 
 {:end "arrow"}
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717280372
+:nonce 1749717280418
 :italic false}}
-:block/updated-at 1749717285018})
+:block/updated-at 1749717407549})
 :pages (
 {:block/uuid #uuid "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :block/properties 
@@ -553,7 +553,7 @@
 :nonce 1
 :assets []
 :shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e" "571f7b90-4767-11f0-8ca3-976a5cc2958e" "71e85321-4767-11f0-8ca3-976a5cc2958e" "77827f92-4767-11f0-8ca3-976a5cc2958e" "a42a13f0-4767-11f0-8ca3-976a5cc2958e" "cde780b2-4767-11f0-8ca3-976a5cc2958e" "04226820-4768-11f0-8ca3-976a5cc2958e" "0422b640-4768-11f0-8ca3-976a5cc2958e" "14fe33e2-4768-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749717285027
+:block/updated-at 1749717407548
 :block/created-at 1749716471279
 :block/type "whiteboard"
 :block/name "progression of ckd mineral bone disorder"
