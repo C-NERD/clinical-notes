@@ -1,2 +1,7 @@
 - Ask for duration dyspnea
-	- **Acute dyspnea**
+	- **Acute dyspnea** is suggestive of
+		- #card
+			- #[[Pulmonary embolism]]
+			- #Pneumothorax
+			- #Asthma exacerbation
+			-
