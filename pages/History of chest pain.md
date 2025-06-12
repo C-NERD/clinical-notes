@@ -1,3 +1,3 @@
 - #[[History of pain]]
 - Character of chest pain
-	- Sharp with
+	- Sharp with breathing indicates pleuritic chest pain
