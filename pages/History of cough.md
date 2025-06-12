@@ -10,3 +10,5 @@
 			- Asthma
 			- Upper airway irritation
 			- Early stages of #[[Interstitial lung disease]]
+- Ask for duration of cough
+	- **Acute cough (< 3 weeks)** sugges
