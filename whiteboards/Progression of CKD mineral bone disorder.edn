@@ -25,7 +25,31 @@
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :collapsedHeight 0
 :nonce 1749716581020}}
-:block/updated-at 1749716627508})
+:block/updated-at 1749716627508} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [216 168]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "a1372f30-4766-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill false
+:point [480 512]
+:fontSize 20
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749716656598
+:italic false}}
+:block/updated-at 1749716658125})
 :pages (
 {:block/uuid #uuid "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :block/properties 
@@ -37,8 +61,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749716627508
+:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749716658125
 :block/created-at 1749716471279
 :block/type "whiteboard"
 :block/name "progression of ckd mineral bone disorder"
