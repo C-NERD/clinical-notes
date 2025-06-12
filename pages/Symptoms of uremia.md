@@ -1,5 +1,5 @@
+- Uremic
 - Uremic pruritus
 - Peripheral edema
 - Bone pain (due to #[[CKD mineral bone disorder]])
 - #Malaise
--
