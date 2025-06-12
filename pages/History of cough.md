@@ -17,7 +17,7 @@
 			- #Pneumonia
 			- #Tuberculosis
 	- **Subacute (3 - 8 weeks)**
-	- **Chronic cough (> 8 weeks)**
+	- **Chronic cough (> 8 weeks)** suggests
 		- #card
 			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
 			- #Asthma
