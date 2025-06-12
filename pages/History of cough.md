@@ -29,4 +29,8 @@
 			- #[[Pulmonary embolism]]
 			- #Bronchiectasis
 			- Lung cancer
-	-
+	- If worse at night, might be suggestive of
+		- #card
+			- #Asthma
+			- #[[Gastroesophageal reflux disease (GERD)]]
+			- #[[Heart failure]]
