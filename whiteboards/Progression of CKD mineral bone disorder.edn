@@ -86,7 +86,8 @@
 :nonce 1749716722754
 :italic false}}
 :block/updated-at 1749716724874} 
-{:block/properties 
+{:block/created-at 1749716816047
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -100,16 +101,51 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label ""
+:label "Secretion of\nFibroblast Growth Fac-\ntor 23 by osteocytes\nand osteoblasts"
 :id "da719b00-4766-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
 :point [480 768]
 :fontSize 20
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749716752682
+:nonce 1749716752772
 :italic false}}
-:block/updated-at 1749716757514})
+:block/updated-at 1749716816047} 
+{:block/created-at 1749716826054
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0525eae2-4767-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [584 688]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]}
+:end 
+{:id "end"
+:canBind true
+:point [0.49 76]
+:bindingId "0525eae1-4767-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749716824256
+:italic false}}
+:block/updated-at 1749716826054})
 :pages (
 {:block/uuid #uuid "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :block/properties 
@@ -125,11 +161,19 @@
 :toId "a1372f30-4766-11f0-8ca3-976a5cc2958e"
 :handleId "end"
 :point [0.51 0.52]
+:distance 4}
+:0525eae1-4767-11f0-8ca3-976a5cc2958e 
+{:id "0525eae1-4767-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "0525eae2-4767-11f0-8ca3-976a5cc2958e"
+:toId "da719b00-4766-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.47 0.51]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749716757514
+:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749716826054
 :block/created-at 1749716471279
 :block/type "whiteboard"
 :block/name "progression of ckd mineral bone disorder"
