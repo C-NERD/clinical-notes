@@ -21,3 +21,4 @@
 		- #card
 			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
 			- #Asthma
+			- #Gastroesophageal
