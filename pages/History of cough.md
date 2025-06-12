@@ -26,4 +26,7 @@
 	- #Haemoptysis association suggests
 		- #card
 			- #Tuberculosis
-			-
+			- #[[Pulmonary embolism]]
+			- #Bronchiectasis
+			- Lung cancer
+	-
