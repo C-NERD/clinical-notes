@@ -272,7 +272,7 @@
 :nonce 1749717016291
 :italic false}}
 :block/updated-at 1749717135095} 
-{:block/created-at 1749717212883
+{:block/created-at 1749717241455
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -288,16 +288,16 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label "Since vitD is responsible\nfor intestinal absorption\nof calcium and phophat"
+:label "Since vitD is responsible\nfor intestinal absorption\nof calcium and phophate,\ndeficiency of vitD rsults\nin deficiency of calcium"
 :id "a42a13f0-4767-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
 :point [1288 896]
 :fontSize 20
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749717091461
+:nonce 1749717091516
 :italic false}}
-:block/updated-at 1749717212883} 
+:block/updated-at 1749717241455} 
 {:block/created-at 1749717212884
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -332,7 +332,104 @@
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :nonce 1749717161103
 :italic false}}
-:block/updated-at 1749717212884})
+:block/updated-at 1749717212884} 
+{:block/created-at 1749717265857
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0422b640-4768-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [1185 672]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 20.91]
+:bindingId "0422b641-4768-11f0-8ca3-976a5cc2958e"}
+:end 
+{:id "end"
+:canBind true
+:point [115 0]
+:bindingId "0422b642-4768-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749717252042
+:italic false}}
+:block/updated-at 1749717265857} 
+{:block/created-at 1749717265858
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 11
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [432 288]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "04226820-4768-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill false
+:point [1304 488]
+:fontSize 20
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749717252218
+:italic false}}
+:block/updated-at 1749717265858} 
+{:block/created-at 1749717285018
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "14fe33e2-4768-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [1432 780]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 116]}
+:end 
+{:id "end"
+:canBind true
+:point [68.83 0]
+:bindingId "178c58d1-4768-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749717280372
+:italic false}}
+:block/updated-at 1749717285018})
 :pages (
 {:block/uuid #uuid "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :block/properties 
@@ -349,6 +446,14 @@
 :handleId "end"
 :point [0.31 0.24]
 :distance 4}
+:14fe33e1-4768-11f0-8ca3-976a5cc2958e 
+{:id "14fe33e1-4768-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "14fe33e2-4768-11f0-8ca3-976a5cc2958e"
+:toId "04226820-4768-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.62 0.49]
+:distance 4}
 :77827f91-4767-11f0-8ca3-976a5cc2958e 
 {:id "77827f91-4767-11f0-8ca3-976a5cc2958e"
 :type "line"
@@ -356,6 +461,22 @@
 :toId "25673610-4767-11f0-8ca3-976a5cc2958e"
 :handleId "end"
 :point [0.7 0.25]
+:distance 4}
+:0422b642-4768-11f0-8ca3-976a5cc2958e 
+{:id "0422b642-4768-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "0422b640-4768-11f0-8ca3-976a5cc2958e"
+:toId "04226820-4768-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:178c58d1-4768-11f0-8ca3-976a5cc2958e 
+{:id "178c58d1-4768-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "14fe33e2-4768-11f0-8ca3-976a5cc2958e"
+:toId "04226820-4768-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.66 0.49]
 :distance 4}
 :0525eae1-4767-11f0-8ca3-976a5cc2958e 
 {:id "0525eae1-4767-11f0-8ca3-976a5cc2958e"
@@ -372,6 +493,14 @@
 :toId "da719b00-4766-11f0-8ca3-976a5cc2958e"
 :handleId "start"
 :point [0.68 0.68]
+:distance 4}
+:0422b641-4768-11f0-8ca3-976a5cc2958e 
+{:id "0422b641-4768-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "0422b640-4768-11f0-8ca3-976a5cc2958e"
+:toId "25673610-4767-11f0-8ca3-976a5cc2958e"
+:handleId "start"
+:point [0.5 0.5]
 :distance 4}
 :79f135a1-4767-11f0-8ca3-976a5cc2958e 
 {:id "79f135a1-4767-11f0-8ca3-976a5cc2958e"
@@ -423,8 +552,8 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e" "571f7b90-4767-11f0-8ca3-976a5cc2958e" "71e85321-4767-11f0-8ca3-976a5cc2958e" "77827f92-4767-11f0-8ca3-976a5cc2958e" "a42a13f0-4767-11f0-8ca3-976a5cc2958e" "cde780b2-4767-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749717212882
+:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e" "0525eae2-4767-11f0-8ca3-976a5cc2958e" "25673610-4767-11f0-8ca3-976a5cc2958e" "571f7b90-4767-11f0-8ca3-976a5cc2958e" "71e85321-4767-11f0-8ca3-976a5cc2958e" "77827f92-4767-11f0-8ca3-976a5cc2958e" "a42a13f0-4767-11f0-8ca3-976a5cc2958e" "cde780b2-4767-11f0-8ca3-976a5cc2958e" "04226820-4768-11f0-8ca3-976a5cc2958e" "0422b640-4768-11f0-8ca3-976a5cc2958e" "14fe33e2-4768-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749717285027
 :block/created-at 1749716471279
 :block/type "whiteboard"
 :block/name "progression of ckd mineral bone disorder"
