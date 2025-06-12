@@ -22,4 +22,7 @@
 			- Severe #Asthma
 			- #[[Pulmonary edema]]
 - Ask for exacerbating or relieving factors
+	- Is there #Orthopnea which is suggestive of
+		- #card
+			- Left sided #[[Heart failure]]
 	- Is there
