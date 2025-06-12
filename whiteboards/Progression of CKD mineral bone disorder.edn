@@ -26,7 +26,8 @@
 :collapsedHeight 0
 :nonce 1749716581020}}
 :block/updated-at 1749716627508} 
-{:block/properties 
+{:block/created-at 1749716720114
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -40,16 +41,75 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label ""
+:label "Retention of \nphosphate due to \nreduced GFR"
 :id "a1372f30-4766-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
 :point [480 512]
 :fontSize 20
 :parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
-:nonce 1749716656598
+:nonce 1749716656693
 :italic false}}
-:block/updated-at 1749716658125})
+:block/updated-at 1749716720114} 
+{:block/created-at 1749716724874
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [392 599.8]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.2]}
+:end 
+{:id "end"
+:canBind true
+:point [84 0]
+:bindingId "c8a5c9f1-4766-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749716722754
+:italic false}}
+:block/updated-at 1749716724874} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [224 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "da719b00-4766-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill false
+:point [480 768]
+:fontSize 20
+:parentId "684a8df7-de7b-4925-b697-3346d3e7aafe"
+:nonce 1749716752682
+:italic false}}
+:block/updated-at 1749716757514})
 :pages (
 {:block/uuid #uuid "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :block/properties 
@@ -58,11 +118,18 @@
 {:id "684a8df7-de7b-4925-b697-3346d3e7aafe"
 :name "progression of ckd mineral bone disorder"
 :bindings 
-{}
+{:c8a5c9f1-4766-11f0-8ca3-976a5cc2958e 
+{:id "c8a5c9f1-4766-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e"
+:toId "a1372f30-4766-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.51 0.52]
+:distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749716658125
+:shapes-index ("74323890-4766-11f0-8ca3-976a5cc2958e" "a1372f30-4766-11f0-8ca3-976a5cc2958e" "c8a5c9f2-4766-11f0-8ca3-976a5cc2958e" "da719b00-4766-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749716757514
 :block/created-at 1749716471279
 :block/type "whiteboard"
 :block/name "progression of ckd mineral bone disorder"
