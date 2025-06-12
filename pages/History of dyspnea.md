@@ -11,7 +11,7 @@
 			- #[[Pulmonary fibrosis]]
 			- #[[Congestive heart failure]]
 - Ask for character of dyspnea
-	- **Exertional dyspnea** suggests
+	- **Exertion dyspnea** suggests
 		- #card
 			- #[[Heart failure]]
 			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
@@ -20,4 +20,5 @@
 		- #card
 			- Advanced #[[Heart failure]]
 			- Severe #Asthma
-			-
+			- #[[Pulmonary edema]]
+- Ask for exacerbating or
