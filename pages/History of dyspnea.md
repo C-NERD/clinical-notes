@@ -11,4 +11,9 @@
 			- #[[Pulmonary fibrosis]]
 			- #[[Congestive heart failure]]
 - Ask for character of dyspnea
-	-
+	- **Exertional dyspnea** suggests
+		- #card
+			- #[[Heart failure]]
+			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
+			- #[[Pulmonary hypertension]]
+			-
