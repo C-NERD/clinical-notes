@@ -1,4 +1,6 @@
 - Ask if cough is productive
 	- ##Indications of productive cough
 		- #card
-		-
+			- Bronchitis
+			- Pneumonia
+			-
