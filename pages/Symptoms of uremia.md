@@ -1,5 +1,6 @@
 - #[[Uremic encephalopathy]]
--
+- #[[Uremic neuropathy]]
+- #[[Uremic gastritis]]
 - Uremic pruritus
 - Peripheral edema
 - Bone pain (due to #[[CKD mineral bone disorder]])
