@@ -1,2 +1,2 @@
 - Ask for duration dyspnea
-	- **Acute dyspnea
+	- **Acute dyspnea**
