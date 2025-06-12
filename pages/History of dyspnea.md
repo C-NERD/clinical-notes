@@ -4,4 +4,9 @@
 			- #[[Pulmonary embolism]]
 			- #Pneumothorax
 			- #Asthma exacerbation
+			- Acute pulmonary edema
+	- **Chronic dyspnea** is suggestive of
+		- #card
+			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
+			- #[[Pulmonary fibrosis]]
 			-
