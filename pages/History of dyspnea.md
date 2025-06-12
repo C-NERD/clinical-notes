@@ -1,12 +1,14 @@
 - Ask for duration dyspnea
-	- **Acute dyspnea** is suggestive of
+	- **Acute dyspnea (minutes - hours)** is suggestive of
 		- #card
 			- #[[Pulmonary embolism]]
 			- #Pneumothorax
 			- #Asthma exacerbation
 			- Acute pulmonary edema
-	- **Chronic dyspnea** is suggestive of
+	- **Chronic dyspnea (months - years)** is suggestive of
 		- #card
 			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
 			- #[[Pulmonary fibrosis]]
 			- #[[Congestive heart failure]]
+- Ask for character of dyspnea
+	-
