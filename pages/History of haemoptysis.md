@@ -1,1 +1,6 @@
-- Ask for amount
+- Ask for amount and frequency
+	- Small amount of blood is indicative of
+		- #card
+			- Chronic #Bronchitis
+			- #Bronchiectasis
+			- #Asthma
