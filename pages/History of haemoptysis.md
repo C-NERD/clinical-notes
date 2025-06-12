@@ -9,4 +9,6 @@
 			- #Tuberculosis
 			- #[[Pulmonary embolism]]
 			- Lung cancer
-- Ask for associated symp
+- Ask for associated symptoms
+	- Night sweats and weight loss
+		- To rule out night
