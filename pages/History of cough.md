@@ -21,4 +21,6 @@
 		- #card
 			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
 			- #Asthma
-			- #Gastroesophageal
+			- #[[Gastroesophageal reflux disease (GERD)]]
+- Ask for association with other symptoms
+	-
