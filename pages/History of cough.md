@@ -1,6 +1,8 @@
 - Ask if cough is productive
-	- ##Indications of productive cough
+	- *Indications of productive cough
 		- #card
-			- Bronchitis
-			- Pneumonia
-			-
+			- #Bronchitis
+			- #Pneumonia
+			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
+			- Lung abscess
+	-
