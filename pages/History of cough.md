@@ -23,4 +23,7 @@
 			- #Asthma
 			- #[[Gastroesophageal reflux disease (GERD)]]
 - Ask for association with other symptoms
-	-
+	- #Haemoptysis association suggests
+		- #card
+			- #Tuberculosis
+			-
