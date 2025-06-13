@@ -1,0 +1,1 @@
+- Inflammation of the lung caused by bacteria, in which the air sacs become filled with inflammatory cells and the lung becomes solid
