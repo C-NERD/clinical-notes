@@ -308,7 +308,7 @@
 :nonce 1749779172649
 :italic false}}
 :block/updated-at 1749779172707} 
-{:block/created-at 1749779186089
+{:block/created-at 1749779257521
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -325,16 +325,78 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label "This reduces lung compliance\nand "
+:label "This reduces lung compliance\nand oxygen, CO_2 exchange\nacross the alveolar capillary\nmembrane"
 :id "2fb70370-47f8-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
 :point [1840 320]
 :fontSize 20
 :parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
-:nonce 1749779172682
+:nonce 1749779172752
 :italic false}}
-:block/updated-at 1749779186089})
+:block/updated-at 1749779257521} 
+{:block/created-at 1749779347137
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 11
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [320 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "This sends signals to the\nrespiratory center in the brain\nto increase the rate of respiration\n"
+:id "7f82deb0-47f8-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill false
+:point [2260 320]
+:fontSize 20
+:parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
+:nonce 1749779306633
+:italic false}}
+:block/updated-at 1749779347137} 
+{:block/created-at 1749779306578
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7f8305c0-47f8-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [2161 400]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "7f8305c1-47f8-11f0-8ca3-976a5cc2958e"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "7f8305c2-47f8-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
+:nonce 1749779306525
+:italic false}}
+:block/updated-at 1749779306578})
 :pages (
 {:block/uuid #uuid "684b7c96-b7a9-4bf9-9e38-b9240a416154"
 :block/properties 
@@ -356,6 +418,14 @@
 :type "line"
 :fromId "2fb72a80-47f8-11f0-8ca3-976a5cc2958e"
 :toId "2fb70370-47f8-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:7f8305c2-47f8-11f0-8ca3-976a5cc2958e 
+{:id "7f8305c2-47f8-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "7f8305c0-47f8-11f0-8ca3-976a5cc2958e"
+:toId "7f82deb0-47f8-11f0-8ca3-976a5cc2958e"
 :handleId "end"
 :point [0.5 0.5]
 :distance 4}
@@ -388,6 +458,14 @@
 :type "line"
 :fromId "7f3a5970-47f7-11f0-8ca3-976a5cc2958e"
 :toId "2eb937f0-47f7-11f0-8ca3-976a5cc2958e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7f8305c1-47f8-11f0-8ca3-976a5cc2958e 
+{:id "7f8305c1-47f8-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "7f8305c0-47f8-11f0-8ca3-976a5cc2958e"
+:toId "2fb70370-47f8-11f0-8ca3-976a5cc2958e"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -425,8 +503,8 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("f7bcfc50-47f6-11f0-8ca3-976a5cc2958e" "2eb937f0-47f7-11f0-8ca3-976a5cc2958e" "2eb95f00-47f7-11f0-8ca3-976a5cc2958e" "7f3a3260-47f7-11f0-8ca3-976a5cc2958e" "7f3a5970-47f7-11f0-8ca3-976a5cc2958e" "a57221e0-47f7-11f0-8ca3-976a5cc2958e" "a57221e1-47f7-11f0-8ca3-976a5cc2958e" "df6d6cb0-47f7-11f0-8ca3-976a5cc2958e" "df6d6cb1-47f7-11f0-8ca3-976a5cc2958e" "2fb70370-47f8-11f0-8ca3-976a5cc2958e" "2fb72a80-47f8-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749779186089
+:shapes-index ("f7bcfc50-47f6-11f0-8ca3-976a5cc2958e" "2eb937f0-47f7-11f0-8ca3-976a5cc2958e" "2eb95f00-47f7-11f0-8ca3-976a5cc2958e" "7f3a3260-47f7-11f0-8ca3-976a5cc2958e" "7f3a5970-47f7-11f0-8ca3-976a5cc2958e" "a57221e0-47f7-11f0-8ca3-976a5cc2958e" "a57221e1-47f7-11f0-8ca3-976a5cc2958e" "df6d6cb0-47f7-11f0-8ca3-976a5cc2958e" "df6d6cb1-47f7-11f0-8ca3-976a5cc2958e" "2fb70370-47f8-11f0-8ca3-976a5cc2958e" "2fb72a80-47f8-11f0-8ca3-976a5cc2958e" "7f82deb0-47f8-11f0-8ca3-976a5cc2958e" "7f8305c0-47f8-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749779347137
 :block/created-at 1749777558969
 :block/type "whiteboard"
 :block/name "mode of action of left sided heart failure in causing orthopnea"
