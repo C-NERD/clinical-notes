@@ -1,1 +1,1 @@
-- Breathlessness that prevents the patient from lying down
+- Breathlessness that occurs or becomes exacerbated on lying supine and becomes relieved
