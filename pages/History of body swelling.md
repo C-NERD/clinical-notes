@@ -1,0 +1,5 @@
+- Ask for onset of body swelling
+	- If started at birth
+		- #card
+			- Congenital #[[Nephrotic syndrome]]
+		-
