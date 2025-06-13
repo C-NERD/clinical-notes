@@ -9,4 +9,4 @@
 			- Acute #glomerulonephritis
 			- Severe malnutrition
 			- #[[Chronic Liver Disease]]
-	- Localized
+	- Localized body swelling;Is it increasing, Does it vary with time of day, Previous episodes
