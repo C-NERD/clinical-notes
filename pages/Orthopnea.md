@@ -1,1 +1,1 @@
-- Breathlessness that occurs or becomes exacerbated on lying supine and becomes relieved
+- Breathlessness that occurs or becomes exacerbated on lying supine and becomes relieved by siting and standing
