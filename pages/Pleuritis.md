@@ -1,0 +1,1 @@
+- Inflammation of the pleura, often due to pneumonia in the underlying lung
