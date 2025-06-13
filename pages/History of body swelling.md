@@ -6,5 +6,7 @@
 	- Generalized body swelling
 		- #card
 			- #[[Nephrotic syndrome]]
-			- Acute
+			- Acute #glomerulonephritis
+			- Severe malnutrition
+			- #[[Chronic Liver Disease]]
 	- Localized
