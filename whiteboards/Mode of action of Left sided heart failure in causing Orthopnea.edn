@@ -1,39 +1,28 @@
 {:blocks (
-{:block/created-at 1749778618873
-:block/properties 
+{:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
+:borderRadius 2
 :index 0
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
-:type "line"
+:type "box"
+:size [256 224]
 :strokeType "line"
-:strokeWidth 1
+:strokeWidth 2
 :opacity 1
 :label ""
-:id "4d11e272-47f6-11f0-8ca3-976a5cc2958e"
+:id "f7bcfc50-47f6-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
-:noFill true
-:point [528 472]
+:noFill false
+:point [160 328]
 :fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]}
-:end 
-{:id "end"
-:canBind true
-:point [144 0]
-:bindingId nil}}
-:decorations 
-{:end "arrow"}
 :parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
-:nonce 1749778362953
+:nonce 1749778649364
 :italic false}}
-:block/updated-at 1749778618873})
+:block/updated-at 1749778653858})
 :pages (
 {:block/uuid #uuid "684b7c96-b7a9-4bf9-9e38-b9240a416154"
 :block/properties 
@@ -45,8 +34,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("4d11e272-47f6-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749778618872
+:shapes-index ("f7bcfc50-47f6-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749778653858
 :block/created-at 1749777558969
 :block/type "whiteboard"
 :block/name "mode of action of left sided heart failure in causing orthopnea"
