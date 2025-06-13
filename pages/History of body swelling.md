@@ -2,4 +2,6 @@
 	- If started at birth
 		- #card
 			- Congenital #[[Nephrotic syndrome]]
-		-
+- Ask for nature of body swelling
+	- Generalized
+	- Localized
