@@ -211,7 +211,7 @@
 :nonce 1749778940672
 :italic false}}
 :block/updated-at 1749778940725} 
-{:block/created-at 1749779037988
+{:block/created-at 1749779137075
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -228,16 +228,16 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label ""
+:label "Pulmonary hypertension causes\nsequestration of fluid into the\npulmonary interstitial space\nand eventually into the \nalveoli causing pulmonary \nedema  "
 :id "df6d6cb0-47f7-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
 :point [1420 320]
 :fontSize 20
 :parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
-:nonce 1749779037947
+:nonce 1749779038117
 :italic false}}
-:block/updated-at 1749779037988} 
+:block/updated-at 1749779137075} 
 {:block/created-at 1749779037992
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -272,7 +272,69 @@
 :parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
 :nonce 1749779037949
 :italic false}}
-:block/updated-at 1749779037992})
+:block/updated-at 1749779037992} 
+{:block/created-at 1749779172707
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2fb72a80-47f8-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [1741 400]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "2fb72a81-47f8-11f0-8ca3-976a5cc2958e"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "2fb72a82-47f8-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
+:nonce 1749779172649
+:italic false}}
+:block/updated-at 1749779172707} 
+{:block/created-at 1749779186089
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 9
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [320 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "This reduces lung compliance\nand "
+:id "2fb70370-47f8-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill false
+:point [1840 320]
+:fontSize 20
+:parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
+:nonce 1749779172682
+:italic false}}
+:block/updated-at 1749779186089})
 :pages (
 {:block/uuid #uuid "684b7c96-b7a9-4bf9-9e38-b9240a416154"
 :block/properties 
@@ -281,7 +343,63 @@
 {:id "684b7c96-b7a9-4bf9-9e38-b9240a416154"
 :name "mode of action of left sided heart failure in causing orthopnea"
 :bindings 
-{:2eb95f01-47f7-11f0-8ca3-976a5cc2958e 
+{:a57248f0-47f7-11f0-8ca3-976a5cc2958e 
+{:id "a57248f0-47f7-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "a57221e1-47f7-11f0-8ca3-976a5cc2958e"
+:toId "a57221e0-47f7-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:2fb72a82-47f8-11f0-8ca3-976a5cc2958e 
+{:id "2fb72a82-47f8-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "2fb72a80-47f8-11f0-8ca3-976a5cc2958e"
+:toId "2fb70370-47f8-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:2fb72a81-47f8-11f0-8ca3-976a5cc2958e 
+{:id "2fb72a81-47f8-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "2fb72a80-47f8-11f0-8ca3-976a5cc2958e"
+:toId "df6d6cb0-47f7-11f0-8ca3-976a5cc2958e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:df6d6cb2-47f7-11f0-8ca3-976a5cc2958e 
+{:id "df6d6cb2-47f7-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "df6d6cb1-47f7-11f0-8ca3-976a5cc2958e"
+:toId "a57221e0-47f7-11f0-8ca3-976a5cc2958e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a57221e2-47f7-11f0-8ca3-976a5cc2958e 
+{:id "a57221e2-47f7-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "a57221e1-47f7-11f0-8ca3-976a5cc2958e"
+:toId "2eb937f0-47f7-11f0-8ca3-976a5cc2958e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7f3a5971-47f7-11f0-8ca3-976a5cc2958e 
+{:id "7f3a5971-47f7-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "7f3a5970-47f7-11f0-8ca3-976a5cc2958e"
+:toId "2eb937f0-47f7-11f0-8ca3-976a5cc2958e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:df6d6cb3-47f7-11f0-8ca3-976a5cc2958e 
+{:id "df6d6cb3-47f7-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "df6d6cb1-47f7-11f0-8ca3-976a5cc2958e"
+:toId "df6d6cb0-47f7-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:2eb95f01-47f7-11f0-8ca3-976a5cc2958e 
 {:id "2eb95f01-47f7-11f0-8ca3-976a5cc2958e"
 :type "line"
 :fromId "2eb95f00-47f7-11f0-8ca3-976a5cc2958e"
@@ -297,14 +415,6 @@
 :handleId "end"
 :point [0.5 0.5]
 :distance 4}
-:7f3a5971-47f7-11f0-8ca3-976a5cc2958e 
-{:id "7f3a5971-47f7-11f0-8ca3-976a5cc2958e"
-:type "line"
-:fromId "7f3a5970-47f7-11f0-8ca3-976a5cc2958e"
-:toId "2eb937f0-47f7-11f0-8ca3-976a5cc2958e"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
 :7f3a5972-47f7-11f0-8ca3-976a5cc2958e 
 {:id "7f3a5972-47f7-11f0-8ca3-976a5cc2958e"
 :type "line"
@@ -312,43 +422,11 @@
 :toId "7f3a3260-47f7-11f0-8ca3-976a5cc2958e"
 :handleId "end"
 :point [0.5 0.5]
-:distance 4}
-:a57221e2-47f7-11f0-8ca3-976a5cc2958e 
-{:id "a57221e2-47f7-11f0-8ca3-976a5cc2958e"
-:type "line"
-:fromId "a57221e1-47f7-11f0-8ca3-976a5cc2958e"
-:toId "2eb937f0-47f7-11f0-8ca3-976a5cc2958e"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:a57248f0-47f7-11f0-8ca3-976a5cc2958e 
-{:id "a57248f0-47f7-11f0-8ca3-976a5cc2958e"
-:type "line"
-:fromId "a57221e1-47f7-11f0-8ca3-976a5cc2958e"
-:toId "a57221e0-47f7-11f0-8ca3-976a5cc2958e"
-:handleId "end"
-:point [0.5 0.5]
-:distance 4}
-:df6d6cb2-47f7-11f0-8ca3-976a5cc2958e 
-{:id "df6d6cb2-47f7-11f0-8ca3-976a5cc2958e"
-:type "line"
-:fromId "df6d6cb1-47f7-11f0-8ca3-976a5cc2958e"
-:toId "a57221e0-47f7-11f0-8ca3-976a5cc2958e"
-:handleId "start"
-:point [0.5 0.5]
-:distance 4}
-:df6d6cb3-47f7-11f0-8ca3-976a5cc2958e 
-{:id "df6d6cb3-47f7-11f0-8ca3-976a5cc2958e"
-:type "line"
-:fromId "df6d6cb1-47f7-11f0-8ca3-976a5cc2958e"
-:toId "df6d6cb0-47f7-11f0-8ca3-976a5cc2958e"
-:handleId "end"
-:point [0.5 0.5]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("f7bcfc50-47f6-11f0-8ca3-976a5cc2958e" "2eb937f0-47f7-11f0-8ca3-976a5cc2958e" "2eb95f00-47f7-11f0-8ca3-976a5cc2958e" "7f3a3260-47f7-11f0-8ca3-976a5cc2958e" "7f3a5970-47f7-11f0-8ca3-976a5cc2958e" "a57221e0-47f7-11f0-8ca3-976a5cc2958e" "a57221e1-47f7-11f0-8ca3-976a5cc2958e" "df6d6cb0-47f7-11f0-8ca3-976a5cc2958e" "df6d6cb1-47f7-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749779038019
+:shapes-index ("f7bcfc50-47f6-11f0-8ca3-976a5cc2958e" "2eb937f0-47f7-11f0-8ca3-976a5cc2958e" "2eb95f00-47f7-11f0-8ca3-976a5cc2958e" "7f3a3260-47f7-11f0-8ca3-976a5cc2958e" "7f3a5970-47f7-11f0-8ca3-976a5cc2958e" "a57221e0-47f7-11f0-8ca3-976a5cc2958e" "a57221e1-47f7-11f0-8ca3-976a5cc2958e" "df6d6cb0-47f7-11f0-8ca3-976a5cc2958e" "df6d6cb1-47f7-11f0-8ca3-976a5cc2958e" "2fb70370-47f8-11f0-8ca3-976a5cc2958e" "2fb72a80-47f8-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749779186089
 :block/created-at 1749777558969
 :block/type "whiteboard"
 :block/name "mode of action of left sided heart failure in causing orthopnea"
