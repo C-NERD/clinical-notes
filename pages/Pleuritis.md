@@ -1,1 +1,1 @@
-- Inflammation of the pleura, often due to pneumonia in the underlying lung
+- Inflammation of the pleura, often due to pneumonia in the underlying lung so that there is pain on deep breathing and a characteristic ‘rub’ can be heard through a stethoscope
