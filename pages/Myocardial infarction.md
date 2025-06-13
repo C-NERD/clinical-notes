@@ -1,0 +1,1 @@
+- Death of a segment of heart muscle, which follows interruption of its blood supply

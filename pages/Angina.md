@@ -1,0 +1,1 @@
+- A sense of suffocation or suffocating pain
