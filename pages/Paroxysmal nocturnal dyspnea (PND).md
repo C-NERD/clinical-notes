@@ -1,1 +1,1 @@
-- Severe
+- Severe shortness of breath and coughing that awakens a person from sleep
