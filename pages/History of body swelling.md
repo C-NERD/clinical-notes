@@ -4,5 +4,7 @@
 			- Congenital #[[Nephrotic syndrome]]
 - Ask for nature of body swelling
 	- Generalized body swelling
-		-
+		- #card
+			- #[[Nephrotic syndrome]]
+			- Acute
 	- Localized
