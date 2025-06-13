@@ -1,1 +1,1 @@
-- Obstruction of the pulmonary artery or one of its branches by an embolus
+- Obstruction of the pulmonary artery or one of itsbranches by an embolus

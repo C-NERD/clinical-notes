@@ -1,37 +1,10 @@
 {:blocks (
-{:block/created-at 1749778369982
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 0
-:scale [1 1]
-:pageId "Heart failure"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 112.99995422363278]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "3a1cd3a0-47f6-11f0-8ca3-976a5cc2958e"
-:noFill false
-:point [128 416]
-:parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
-:collapsedHeight 0
-:nonce 1749778331105}}
-:block/updated-at 1749778369982} 
-{:block/created-at 1749778369933
+{:block/created-at 1749778618873
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 1
+:index 0
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -60,20 +33,20 @@
 :parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
 :nonce 1749778362953
 :italic false}}
-:block/updated-at 1749778369933})
+:block/updated-at 1749778618873})
 :pages (
 {:block/uuid #uuid "684b7c96-b7a9-4bf9-9e38-b9240a416154"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "684b7c96-b7a9-4bf9-9e38-b9240a416154"
-:name "mode of action of heart failure in causing orthopnea"
+:name "mode of action of left sided heart failure in causing orthopnea"
 :bindings 
 {}
 :nonce 1
 :assets []
-:shapes-index ("3a1cd3a0-47f6-11f0-8ca3-976a5cc2958e" "4d11e272-47f6-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749778369982
+:shapes-index ("4d11e272-47f6-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749778618872
 :block/created-at 1749777558969
 :block/type "whiteboard"
 :block/name "mode of action of left sided heart failure in causing orthopnea"
