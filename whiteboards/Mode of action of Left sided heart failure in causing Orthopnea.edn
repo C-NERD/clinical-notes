@@ -87,7 +87,7 @@
 :nonce 1749778741489
 :italic false}}
 :block/updated-at 1749778741534} 
-{:block/created-at 1749778906081
+{:block/created-at 1749778914621
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -104,16 +104,16 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label "In a normal healthy heart,\nthe left ventricle handles \nthis increase in pulmonary"
+:label "In a normal healthy heart,\nthe left ventricle handles \nthis increase in pulmonary\nvenous pressure"
 :id "7f3a3260-47f7-11f0-8ca3-976a5cc2958e"
 :fontWeight 400
 :noFill false
 :point [580 580]
 :fontSize 20
 :parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
-:nonce 1749778876637
+:nonce 1749778876653
 :italic false}}
-:block/updated-at 1749778906081} 
+:block/updated-at 1749778914621} 
 {:block/created-at 1749778876612
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -148,7 +148,69 @@
 :parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
 :nonce 1749778876552
 :italic false}}
-:block/updated-at 1749778876612})
+:block/updated-at 1749778876612} 
+{:block/created-at 1749778971693
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 5
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [320 160]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "In left sided heart failure,\nthe weakened heart cannot\nproperly pump out "
+:id "a57221e0-47f7-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill false
+:point [1000 320]
+:fontSize 20
+:parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
+:nonce 1749778940745
+:italic false}}
+:block/updated-at 1749778971693} 
+{:block/created-at 1749778940725
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a57221e1-47f7-11f0-8ca3-976a5cc2958e"
+:fontWeight 400
+:noFill true
+:point [901 400]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "a57221e2-47f7-11f0-8ca3-976a5cc2958e"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "a57248f0-47f7-11f0-8ca3-976a5cc2958e"}}
+:decorations 
+{:end "arrow"}
+:parentId "684b7c96-b7a9-4bf9-9e38-b9240a416154"
+:nonce 1749778940672
+:italic false}}
+:block/updated-at 1749778940725})
 :pages (
 {:block/uuid #uuid "684b7c96-b7a9-4bf9-9e38-b9240a416154"
 :block/properties 
@@ -188,11 +250,27 @@
 :toId "7f3a3260-47f7-11f0-8ca3-976a5cc2958e"
 :handleId "end"
 :point [0.5 0.5]
+:distance 4}
+:a57221e2-47f7-11f0-8ca3-976a5cc2958e 
+{:id "a57221e2-47f7-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "a57221e1-47f7-11f0-8ca3-976a5cc2958e"
+:toId "2eb937f0-47f7-11f0-8ca3-976a5cc2958e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a57248f0-47f7-11f0-8ca3-976a5cc2958e 
+{:id "a57248f0-47f7-11f0-8ca3-976a5cc2958e"
+:type "line"
+:fromId "a57221e1-47f7-11f0-8ca3-976a5cc2958e"
+:toId "a57221e0-47f7-11f0-8ca3-976a5cc2958e"
+:handleId "end"
+:point [0.5 0.5]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("f7bcfc50-47f6-11f0-8ca3-976a5cc2958e" "2eb937f0-47f7-11f0-8ca3-976a5cc2958e" "2eb95f00-47f7-11f0-8ca3-976a5cc2958e" "7f3a3260-47f7-11f0-8ca3-976a5cc2958e" "7f3a5970-47f7-11f0-8ca3-976a5cc2958e")}}
-:block/updated-at 1749778906081
+:shapes-index ("f7bcfc50-47f6-11f0-8ca3-976a5cc2958e" "2eb937f0-47f7-11f0-8ca3-976a5cc2958e" "2eb95f00-47f7-11f0-8ca3-976a5cc2958e" "7f3a3260-47f7-11f0-8ca3-976a5cc2958e" "7f3a5970-47f7-11f0-8ca3-976a5cc2958e" "a57221e0-47f7-11f0-8ca3-976a5cc2958e" "a57221e1-47f7-11f0-8ca3-976a5cc2958e")}}
+:block/updated-at 1749778971693
 :block/created-at 1749777558969
 :block/type "whiteboard"
 :block/name "mode of action of left sided heart failure in causing orthopnea"
