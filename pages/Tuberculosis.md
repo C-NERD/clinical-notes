@@ -1,0 +1,1 @@
+- An infectious disease characterized by the formation of nodular lesions (tubercles) in the tissues
