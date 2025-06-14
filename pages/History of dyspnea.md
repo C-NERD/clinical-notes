@@ -1,4 +1,4 @@
-- Ask for duration dyspnea
+- Ask for duration of dyspnea
 	- **Acute dyspnea (minutes - hours)** is suggestive of
 		- #card
 			- #[[Pulmonary embolism]]
