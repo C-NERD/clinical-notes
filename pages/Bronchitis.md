@@ -1,1 +1,1 @@
-- Inflammation of the bronchi, characterized
+- Inflammation of the bronchi, characterized by narrowing of the bronchi due to bronchiospasms
