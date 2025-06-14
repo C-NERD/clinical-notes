@@ -26,6 +26,12 @@
 - Location of chest pain
 	- Localized chest pain is indicative of
 		- #card
+		  card-last-interval:: 4.28
+		  card-repeats:: 1
+		  card-ease-factor:: 2.36
+		  card-next-schedule:: 2025-06-19T03:31:03.729Z
+		  card-last-reviewed:: 2025-06-14T21:31:03.730Z
+		  card-last-score:: 3
 			- Musculoskeletal issue
 				- Rib fracture
 				- Costochondritis
