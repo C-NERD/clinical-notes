@@ -2,6 +2,12 @@
 - Character of chest pain
 	- Sharp with breathing indicates pleuritic chest pain and it is suggestive of
 		- #card
+		  card-last-interval:: 4.28
+		  card-repeats:: 1
+		  card-ease-factor:: 2.36
+		  card-next-schedule:: 2025-06-19T03:25:41.051Z
+		  card-last-reviewed:: 2025-06-14T21:25:41.051Z
+		  card-last-score:: 3
 			- #Pneumonia
 			- #Pleuritis
 			- #[[Pulmonary embolism]]
