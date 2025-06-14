@@ -61,6 +61,12 @@
 			- Lung cancer
 	- If worse at night, might be suggestive of
 		- #card
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2025-06-14T23:00:00.000Z
+		  card-last-reviewed:: 2025-06-14T21:41:03.614Z
+		  card-last-score:: 1
 			- #Asthma
 			- #[[Gastroesophageal reflux disease (GERD)]]
 			- #[[Heart failure]]
