@@ -13,6 +13,12 @@
 	- Night sweats and weight loss
 		- To rule out night sweats due to weather
 			- #card
+			  card-last-interval:: 4
+			  card-repeats:: 1
+			  card-ease-factor:: 2.6
+			  card-next-schedule:: 2025-06-18T21:22:10.724Z
+			  card-last-reviewed:: 2025-06-14T21:22:10.724Z
+			  card-last-score:: 5
 				- Ask if patient sleeps with fan on
 		- Indicative of
 			- #card
