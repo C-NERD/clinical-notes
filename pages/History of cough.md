@@ -31,6 +31,12 @@
 	- **Subacute (3 - 8 weeks)**
 	- **Chronic cough (> 8 weeks)** suggests
 		- #card
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2025-06-14T23:00:00.000Z
+		  card-last-reviewed:: 2025-06-14T21:39:08.776Z
+		  card-last-score:: 1
 			- #[[Chronic Obstructive Pulmonary Disease (COPD)]]
 			- #Asthma
 			- #[[Gastroesophageal reflux disease (GERD)]]

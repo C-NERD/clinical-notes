@@ -48,6 +48,12 @@
 - Ask for exacerbating or relieving factors
 	- Is there #Orthopnea which is suggestive of
 		- #card
+		  card-last-interval:: 4
+		  card-repeats:: 1
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2025-06-18T21:39:42.619Z
+		  card-last-reviewed:: 2025-06-14T21:39:42.620Z
+		  card-last-score:: 5
 			- Left sided #[[Heart failure]]
 	- Is there #[[Paroxysmal nocturnal dyspnea (PND)]] which is suggestive of
 		- #card
