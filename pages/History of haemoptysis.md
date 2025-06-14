@@ -1,6 +1,12 @@
 - Ask for amount and frequency
 	- Small amount of blood is indicative of
 		- #card
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2025-06-14T23:00:00.000Z
+		  card-last-reviewed:: 2025-06-14T21:26:52.181Z
+		  card-last-score:: 1
 			- Chronic #Bronchitis
 			- #Bronchiectasis
 			- #Asthma
