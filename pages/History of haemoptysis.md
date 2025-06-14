@@ -28,6 +28,12 @@
 				- Ask if patient sleeps with fan on
 		- Indicative of
 			- #card
+			  card-last-interval:: 4
+			  card-repeats:: 1
+			  card-ease-factor:: 2.6
+			  card-next-schedule:: 2025-06-18T21:37:32.954Z
+			  card-last-reviewed:: 2025-06-14T21:37:32.954Z
+			  card-last-score:: 5
 				- #Tuberculosis
 				- Lung cancer
 	- Fever is indicative of
