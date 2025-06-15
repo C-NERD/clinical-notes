@@ -1,2 +1,3 @@
 - #[[Format of physical examinations]]
+- #[[Obligations before physical examinations]]
 -
