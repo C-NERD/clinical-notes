@@ -1,0 +1,1 @@
+- Do not touch patient with left hand except in some conditions
