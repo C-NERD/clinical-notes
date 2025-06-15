@@ -1,1 +1,1 @@
-- Sir/Ma, I am presenting ${name}, a ${age} yr old man who is a ${tribe} ${religion} ${occupation} and resides at ${address}
+- Sir/Ma, I am presenting ${name}, a ${age} yr old man who is a ${tribe} ${religion} ${occupation} and resides at ${address}. He
