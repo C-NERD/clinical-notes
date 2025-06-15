@@ -1,1 +1,3 @@
-- No vis
+- No visible clubbing
+- Mild clubbing: obliteration of #[[Lovibond angle]]
+- Moderate clubbing:
