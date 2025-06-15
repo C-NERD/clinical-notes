@@ -10,4 +10,6 @@
 			- Photophobia
 			- Drowsiness
 			- Irrational talks
--
+- #[[History of vomiting]]
+	- #card
+		- Projectile, non bilous, non bloody containing recently ingested food
