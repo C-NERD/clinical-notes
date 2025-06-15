@@ -1,4 +1,8 @@
 - Observe the lips for central #Cyanosis
 	- ![lip_cyanosis](assets/cyanosis/lip_cyanosis.png)
 - Ask the patient to open his mouth
-	-
+	- Check for pallor
+		- #card
+			- Pale gums
+			- Pale oral mucosa of the inner lips and inner cheeks
+			-
