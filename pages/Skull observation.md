@@ -1,2 +1,2 @@
-- Observe for bossing of skull
+- Observe for bossing of skull (bulging or prominence of parts of the skull bone)
 	-
