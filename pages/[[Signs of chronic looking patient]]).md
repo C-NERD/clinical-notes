@@ -1,3 +1,3 @@
 - Loss of Temporalis muscle
-- Prominent zygomatic bones and ribs
+- Prominent zygomatic, clavicular bones and ribs
 - #Anasarca
