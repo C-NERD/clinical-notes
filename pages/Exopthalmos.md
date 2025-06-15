@@ -1,0 +1,1 @@
+- Abnormal protrusion or bulging of one or both eyeballs from the eye socket
