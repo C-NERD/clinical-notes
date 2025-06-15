@@ -11,3 +11,7 @@
 	- #card
 		- Bluish discoloration of the tongue, gums and buccal mucosa
 - Indicators of oral dehydration are
+	- #card
+		- Absence of pool saliva at the floor of the mouth
+		- Presence of fissures on the dorsum of the tongue
+		-
