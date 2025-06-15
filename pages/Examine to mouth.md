@@ -1,6 +1,6 @@
 - Observe the lips for central #Cyanosis and #Chelitis
 	- ![lip_cyanosis](assets/cyanosis/lip_cyanosis.png)
-- Check for pallor, cyanosis, dehydration
+- Check for pallor, cyanosis, dehydration,
 	- Ask the patient to open his mouth
 	- Ask the patient to protrude his tongue
 	- Ask the patient to raise his tongue
