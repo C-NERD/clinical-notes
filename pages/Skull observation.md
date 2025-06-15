@@ -1,2 +1,5 @@
 - Observe for bossing of skull (bulging or prominence of parts of the skull bone)
-	-
+	- Frontal bossing
+	- Parietal bossing
+	- Occipital bossing
+		-
