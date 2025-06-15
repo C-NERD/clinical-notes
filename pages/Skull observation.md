@@ -5,4 +5,5 @@
 		- Common in
 			- #card
 				- #[[Sickle cell disease]]
-				- #Rickets in older
+				- #Rickets in older people
+				- #[[Paget disease]] of the bone
