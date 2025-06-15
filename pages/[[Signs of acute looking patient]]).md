@@ -2,4 +2,6 @@
 	- Flaring of nostrils
 	- Activation of secondary respiratory muscles
 - Painful distress
-	-
+	- Painful facial expression
+	- Guarding of a body part
+	- Vocalization ()
