@@ -1,2 +1,3 @@
 - Respiratory distress
-	- Flaring n
+	- Flaring of nostrils
+	- Activation of secondary respiratory muscles
