@@ -1,0 +1,5 @@
+- Introduction
+	- Greet the patient
+	- Introduce yourself to the patient
+	- Tell the purpose of the examination you are about to perform
+	- Seek for patients consent
