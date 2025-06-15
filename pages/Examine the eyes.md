@@ -1,4 +1,4 @@
 - Examine for conjuctival #Pallor
 - Examine for scleral #Icterus
 - Examine for #Exopthalmos
-- Examine for
+- Examine for #Ptosis
