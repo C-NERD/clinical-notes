@@ -1,3 +1,3 @@
-- Fluffy hair evidence of
+- Fine or sparce hair evidence of
 	- #card
-		-
+		- #Chronic
