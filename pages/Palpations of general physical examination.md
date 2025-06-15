@@ -4,3 +4,4 @@
 - #[[Skull observation]]
 - #[[Skin turgor test]]
 - #[[Examine the eyes]]
+- #[[Examine to mouth]]
