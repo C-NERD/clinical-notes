@@ -9,5 +9,6 @@
 		- Pale gums
 		- Pale oral mucosa of the inner lips and inner cheeks
 		- Dorsum of tongue appears pale and smooth (loss of papillae)
-- Indicators of cyanosis are
+- Indicators of oral cyanosis are
 	- #card
+		- Bluish discoloration of the
