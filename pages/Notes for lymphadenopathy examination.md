@@ -1,2 +1,2 @@
 - Palpate the lymph nodes against bone prominences
--
+- Rub the lymph nodes gently in a circular motion
