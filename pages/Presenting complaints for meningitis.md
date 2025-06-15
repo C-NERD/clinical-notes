@@ -1,3 +1,3 @@
 - Fever: Occurs in infectious processes
-- Headache: Due to inflammation which causes raised in
-- Vomiting
+- Headache: Due to inflammation which causes raised intracranial pressure by increasing volume of CSF
+- Vomiting: In bacterial meningitis due to release of endotoxins that act as pyogens
