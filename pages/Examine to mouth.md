@@ -5,4 +5,4 @@
 		- #card
 			- Pale gums
 			- Pale oral mucosa of the inner lips and inner cheeks
-			-
+			- Dorsum of tongue appears pale and smooth (loss of papil)
