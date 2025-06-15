@@ -3,4 +3,4 @@
 		- Low grade recurrent fever lasting days to weeks with no relieving factors and not associated with chills and rigors
 - #[[History of headache]]
 	- #card
-		- Generalized, continuous and non-radiating described as throbbing in nature and not associated with
+		- Generalized, continuous and non-radiating described as throbbing in nature and not associated with stress, noise
