@@ -1,6 +1,6 @@
 - Observe the lips for central #Cyanosis
 	- ![lip_cyanosis](assets/cyanosis/lip_cyanosis.png)
-- Check for pallor, hydration, cyanosis
+- Check for pallor, cyanosis, dehydration
 	- Ask the patient to open his mouth
 	- Ask the patient to protrude his tongue
 	- Ask the patient to raise his tongue
@@ -10,3 +10,4 @@
 - Indicators of oral cyanosis are
 	- #card
 		- Bluish discoloration of the tongue, gums and buccal mucosa
+- Indicators of oral dehydration are
