@@ -1,5 +1,5 @@
 - Pinch and rub the hair to determine if the hair is fine or sparce evidence of
 	- #card
-		- #[[Chronic Liver Disease]]
+		- #[[Chronic Liver Disease]] (hypoalbuminemia)
 		- #Malnutrition
 - Determine if there is #Alopecia and if associated with scaring
