@@ -1,4 +1,4 @@
 - #[[Complaints and Course in History of presenting complaints in AKI and CKD]]
-- #[[Cause / Risk factors / Differentials in history of presenting complaints in AKI and CKD]]
+- #[[Cause, Risk factors, Differentials in history of presenting complaints in AKI and CKD]]
 - #[[Complications in history of presenting complaints in AKI and CKD]]
 - #[[Care received in History of presenting complaints]]
