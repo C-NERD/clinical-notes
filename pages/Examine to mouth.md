@@ -1,8 +1,9 @@
 - Observe the lips for central #Cyanosis
 	- ![lip_cyanosis](assets/cyanosis/lip_cyanosis.png)
-- Ask the patient to open his mouth
-	- Check for pallor
-		- #card
-			- Pale gums
-			- Pale oral mucosa of the inner lips and inner cheeks
-			- Dorsum of tongue appears pale and smooth (loss of papil)
+	- Ask the patient to open his mouth
+	- Ask the patient to protrude his tongue
+		- Check for pallor
+			- #card
+				- Pale gums
+				- Pale oral mucosa of the inner lips and inner cheeks
+				- Dorsum of tongue appears pale and smooth (loss of papillae)
