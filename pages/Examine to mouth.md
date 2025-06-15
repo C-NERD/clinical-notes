@@ -4,7 +4,10 @@
 	- Ask the patient to open his mouth
 	- Ask the patient to protrude his tongue
 	- Ask the patient to raise his tongue
+- Indicators of oral pallor are
 	- #card
 		- Pale gums
 		- Pale oral mucosa of the inner lips and inner cheeks
 		- Dorsum of tongue appears pale and smooth (loss of papillae)
+- Indicators of cyanosis are
+	- #card
