@@ -7,4 +7,7 @@
 		- Severe enough to prevent patient from sleeping
 		- Associated with hx of
 			- Neck stiffness
-			-
+			- Photophobia
+			- Drowsiness
+			- Irrational talks
+-
