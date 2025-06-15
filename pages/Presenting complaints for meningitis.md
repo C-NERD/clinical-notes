@@ -1,3 +1,3 @@
-- Fever
-- Headache
+- Fever: Occurs in infectious processes
+- Headache: Due to inflammation which causes raised in
 - Vomiting
