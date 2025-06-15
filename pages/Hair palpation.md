@@ -2,4 +2,4 @@
 	- #card
 		- #[[Chronic Liver Disease]]
 		- #Malnutrition
-- Determine if ther#Alopecia associated with scaring
+- Determine if there is #Alopecia and if associated with scaring
