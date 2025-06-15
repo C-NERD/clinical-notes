@@ -1,1 +1,2 @@
-- ![oral trush](assets/oral_trush/oral)
+-
+- ![oral trush](assets/oral_trush/oral_trush.jpg)
