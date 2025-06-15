@@ -1,0 +1,2 @@
+- Drooping or falling of the upper eyelid of one or both of the eyes
+-
