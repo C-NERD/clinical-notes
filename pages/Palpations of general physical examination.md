@@ -1,2 +1,3 @@
 - #[[Palpation warning]]
 - Insert a thermometer in the armpit to measure temperature
+- #[[Hair palpation]]
