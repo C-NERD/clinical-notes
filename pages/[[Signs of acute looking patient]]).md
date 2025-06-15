@@ -4,4 +4,5 @@
 - Painful distress
 	- Painful facial expression
 	- Guarding of a body part
-	- Vocalization ()
+	- Vocalization (groaning, crying, etc)
+	- Tenderness to palpation
