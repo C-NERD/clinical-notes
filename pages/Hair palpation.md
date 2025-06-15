@@ -1,3 +1,5 @@
 - Fine or sparce hair evidence of
 	- #card
-		- #Chronic
+		- #[[Chronic Liver Disease]]
+		- #Malnutrition
+- Determine if ther#Alopecia associated with scaring
