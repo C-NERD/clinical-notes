@@ -1,2 +1,3 @@
 - #[[Notes for lymphadenopathy examination]]
+- #[[Palpate for head and cervical lymph nodes]]
 -
