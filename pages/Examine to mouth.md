@@ -1,4 +1,4 @@
-- Observe the lips for central #Cyanosis
+- Observe the lips for central #Cyanosis and #Chelitis
 	- ![lip_cyanosis](assets/cyanosis/lip_cyanosis.png)
 - Check for pallor, cyanosis, dehydration
 	- Ask the patient to open his mouth
@@ -14,4 +14,4 @@
 	- #card
 		- Absence of pool saliva at the floor of the mouth
 		- Presence of fissures on the dorsum of the tongue
-		-
+		- Thick viscous saliva
