@@ -1,6 +1,7 @@
 - Is the patient conscious
 - Get patient subjective age (How old does the patient looks)
 - Is the patient acute looking (#[[Signs of acute looking patient]]) or chronic looking (#[[Signs of chronic looking patient]])
+- Insert a thermometer in the armpit to measure temperature
 - Is the patient intubated
 - Is the patient cannulated, if so what is the #[[Cannula size]] and where is it located
 - Other obvious indications
