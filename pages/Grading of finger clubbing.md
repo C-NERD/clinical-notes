@@ -2,4 +2,4 @@
 - Mild clubbing: obliteration of #[[Lovibond angle]]
 - Moderate clubbing: increased convexity of the nail longitudinally and transversely
 - Gross clubbing: bulbous swelling of distal end of the finger (drumstick appearance)
-- Hyperthrophy Osteoarthropathy: shiny aspect and striation of nail and skin
+- Hyperthrophic Osteoarthropathy: shiny aspect and striation of nail and skin
