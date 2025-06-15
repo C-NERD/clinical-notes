@@ -420,4 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/forcesettings {:link-dist 140
- :charge-strength -800}}
+ :charge-strength -200}}
