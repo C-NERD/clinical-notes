@@ -5,4 +5,4 @@
 - Is the patient intubated or catheterized
 - Other obvious indications
 	- Burns
-	- Laceration / scars
+	- Laceration / scars / traditional marks
