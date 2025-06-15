@@ -1,2 +1,2 @@
--
+- Presence of creamy white, slightly raised patches or lesions in the mouth due to infection by Candida fungi
 - ![oral trush](assets/oral_trush/oral_trush.jpg)
