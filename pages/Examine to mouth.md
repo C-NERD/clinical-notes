@@ -1,4 +1,4 @@
-- Observe the lips for #Cyanosis
+- Observe the lips for central #Cyanosis
 	- ![lip_cyanosis](assets/cyanosis/lip_cyanosis.png)
 - Ask the patient to open his mouth
 	-
