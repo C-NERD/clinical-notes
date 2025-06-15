@@ -1,1 +1,1 @@
-- Fever:
+- #[[History of fever]]: Low
