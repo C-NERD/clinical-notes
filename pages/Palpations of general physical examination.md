@@ -5,4 +5,7 @@
 - #[[Skin turgor test]]
 - #[[Examine the eyes]]
 - #[[Examine to mouth]]
+- Remove the thermometer and note the temperature
 - #[[Initial examination for lymphadenopathy]]
+- #[[Examine the hands]]
+-
