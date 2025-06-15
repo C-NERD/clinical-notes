@@ -1,8 +1,9 @@
-- Grip
+- GRIP protocol
 	- Greet the patient
+	- Create rapport
 	- Introduce yourself to the patient
 	- Tell the purpose of the examination you are about to perform
-	- Seek for patients consent
+	- Seek for patients
 - Stay on the right side of the patient
 - Screen the patient
 - Wash hand under running water or sanitizer
