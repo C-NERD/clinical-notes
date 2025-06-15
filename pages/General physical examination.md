@@ -1,3 +1,4 @@
 - #[[Format of physical examinations]]
 - #[[Obligations before physical examinations]]
-- Position the patient by asking him to lie
+- Position the patient by asking him to lie supine in anatomical position
+- Ask the patient
