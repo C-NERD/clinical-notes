@@ -2,5 +2,5 @@
 - Insert a thermometer in the armpit to measure temperature
 - #[[Hair palpation]]
 - #[[Skull observation]]
-- #[[Skin turbidity examination]]
+- #[[Skin turgidity examination]]
 - #[[Examine the eyes]]
