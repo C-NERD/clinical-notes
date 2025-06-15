@@ -1,0 +1,2 @@
+- Palpate the lymph nodes against bone prominences
+-
