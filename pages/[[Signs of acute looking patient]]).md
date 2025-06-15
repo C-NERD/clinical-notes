@@ -1,3 +1,5 @@
 - Respiratory distress
 	- Flaring of nostrils
 	- Activation of secondary respiratory muscles
+- Painful distress
+	-
