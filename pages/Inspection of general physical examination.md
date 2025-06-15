@@ -1,2 +1,2 @@
 - Get patient subjective age (How old does the patient looks)
-- Is the patient acute looking ()
+- Is the patient acute looking (#[[Signs of acute looking patient]]) or chronic looking (#[[Signs of chronic looking patient]])
