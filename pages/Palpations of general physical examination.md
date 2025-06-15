@@ -8,4 +8,5 @@
 - Remove the thermometer and note the temperature
 - #[[Initial examination for lymphadenopathy]]
 - #[[Examine the hands]]
--
+- #[[Final examination for lymphadenopathy]]
+- #[[Examine the ankles]]
