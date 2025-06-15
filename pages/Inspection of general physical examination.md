@@ -1,1 +1,2 @@
-- Get
+- Get patient subjective age (How old does the patient looks)
+- Is the patient acute looking ()
