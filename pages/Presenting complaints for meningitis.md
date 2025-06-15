@@ -1,4 +1,6 @@
 - #[[History of fever]]:
 	- #card
 		- Low grade recurrent fever lasting days to weeks with no relieving factors and not associated with chills and rigors
-- #history
+- #[[History of headache]]
+	- #card
+		- Generalized, continuous
