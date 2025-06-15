@@ -2,6 +2,5 @@
 - Grade 1: flicker or trace of contraction
 - Grade 2: active movement with gravity eliminated
 - Grade 3: active movement against gravity
-- Grade 4: active movement against gravity and
-  resistance
-- Grade 5: normal power
+- Grade 4: active movement against gravity and minimal resistance
+- Grade 5: active movement against gravity and maximal resistance
