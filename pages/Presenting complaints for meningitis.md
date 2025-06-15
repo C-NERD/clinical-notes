@@ -13,3 +13,4 @@
 - #[[History of vomiting]]
 	- #card
 		- Projectile, non bilous, non bloody containing recently ingested food
+		- Associated with loss of appetite and weight loss
