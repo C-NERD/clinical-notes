@@ -5,3 +5,4 @@
 - #[[Skin turgor test]]
 - #[[Examine the eyes]]
 - #[[Examine to mouth]]
+- #[[Initial examination for lymphadenopathy]]
