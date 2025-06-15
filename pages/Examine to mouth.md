@@ -6,9 +6,7 @@
 	- Ask the patient to raise his tongue
 - Indicators of oral pallor are
 	- #card
-		- Pale gums
-		- Pale oral mucosa of the inner lips and inner cheeks
-		- Dorsum of tongue appears pale and smooth (loss of papillae)
+		- Pale gums, buccal mucosa and tongue
 - Indicators of oral cyanosis are
 	- #card
-		- Bluish discoloration of the
+		- Bluish discoloration of the tongue, gums and buccal mucosa
