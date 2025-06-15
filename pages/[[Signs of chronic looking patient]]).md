@@ -1,4 +1,4 @@
-- Weight loss
+- Evidence by weight loss
 	- Loss of Temporalis muscle
 	- Prominent zygomatic, clavicular bones and ribs
-- #Anasarca
+- Evidence by generalized body swelling (#Anasarca)
