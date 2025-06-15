@@ -4,4 +4,3 @@
 - #[[Past medical history]]
 - #[[Family history]]
 - #[[Drug history]]
-- #[[Summary of History taking]]
