@@ -3,7 +3,7 @@
 	- Create rapport
 	- Introduce yourself to the patient
 	- Tell the purpose of the examination you are about to perform
-	- Seek for patients
+	- Seek for patients permission / consent
 - Stay on the right side of the patient
 - Screen the patient
 - Wash hand under running water or sanitizer
