@@ -1,3 +1,3 @@
 - #[[Format of physical examinations]]
 - #[[Obligations before physical examinations]]
--
+- Position the patient by asking him to lie
