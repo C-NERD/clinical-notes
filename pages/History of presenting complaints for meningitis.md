@@ -1,2 +1,4 @@
 - #[[Complaints and Course in history of presenting complaints in meningitis]]
-- #[[Cause, Risk factors, Differentials in history of presenting complaints in m]]
+- #[[Cause, Risk factors, Differentials in history of presenting complaints in meningitis]]
+- #[[Complications in history of presenting complaints in meningitis]]
+- #[[Care received in History of presenting complaints]]
