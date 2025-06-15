@@ -1,2 +1,2 @@
 - Angle between nail and nail fold
-- ![]
+- ![lovibond angle](assets/lovibond_angle/lovibond_angle.png){:height 606, :width 598}
