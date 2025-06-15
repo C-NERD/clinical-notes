@@ -1,1 +1,2 @@
-- #[[History of fever]]: Low
+- #[[History of fever]]:
+	- Low grade recurrent fever lasting days to weeks with no relieving factors and not associated with chills and rigors
