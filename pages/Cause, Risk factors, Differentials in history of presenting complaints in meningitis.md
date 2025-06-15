@@ -1,3 +1,3 @@
 - Rule outs:
 	- Malaria by confirming absence of hx of #[[Malaria specific symptoms]]
-	- Upper respiratory tract infection
+	- Upper respiratory tract infection by confirming absence of hx of #[[Upper respiratory tract specific symptoms]]
