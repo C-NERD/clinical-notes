@@ -1,3 +1,4 @@
 - No visible clubbing
 - Mild clubbing: obliteration of #[[Lovibond angle]]
-- Moderate clubbing:
+- Moderate clubbing: increased convexity of the nail longitudinally and transversely
+- Gross clubbing: bulbous swelling of distal end of the finger (drumstick)
