@@ -1,2 +1,2 @@
 - Examine for conjuctival #Pallor
-- Examine for
+- Examine for scleral #Icterus
