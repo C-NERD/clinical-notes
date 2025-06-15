@@ -1,4 +1,4 @@
-- Biodata : Sir/Ma, I am presenting ${name}, a ${age} yr old ${sex} who is a ${religion} ${occupation} and resides at ${address}
+- #Biodata
 - #[[Presenting complaints for AKI and CKD]]
 - #[[History of presenting complaints for AKI and CKD]]
 - #[[Past medical history]]

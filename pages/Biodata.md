@@ -1,1 +1,1 @@
-- Sir/Ma, I am presenting ${name}, a ${age} yr old man who is a ${tribe} ${religion} ${occupation} and resides at ${address}. He
+- Sir/Ma, I am presenting ${name}, a ${age} yr old man who is a ${tribe} ${religion} ${occupation} and resides at ${address}. He had an informant by the name of ${informant} who is his ${informant's relationship}
