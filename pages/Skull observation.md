@@ -2,4 +2,7 @@
 	- Frontal bossing
 	- Parietal bossing
 	- Occipital bossing
-		-
+		- Common in
+			- #card
+				- #[[Sickle cell disease]]
+				- #Rickets in older
