@@ -1,4 +1,7 @@
 - Get patient subjective age (How old does the patient looks)
 - Is the patient acute looking (#[[Signs of acute looking patient]]) or chronic looking (#[[Signs of chronic looking patient]])
 - Is the patient intubated
-- Is the patient cannulated, if so what is the #[[Cannula size]] and
+- Is the patient cannulated, if so what is the #[[Cannula size]] and where is it located
+- Other obvious indications
+	- Burns
+	- Laceration
