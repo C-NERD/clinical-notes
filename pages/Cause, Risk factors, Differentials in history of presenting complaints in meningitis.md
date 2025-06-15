@@ -1,0 +1,2 @@
+- Rule outs:
+	- Malaria by confirming absence of hx of
